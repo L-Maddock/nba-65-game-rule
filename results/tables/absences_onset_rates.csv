@@ -1,0 +1,69 @@
+group,post_rule,start_bin5,n,star_seasons,rate,x,period
+High-minute non-stars (prior-season status),FALSE,"(0,5]",40,542,7.380073800738008,2.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(5,10]",12,542,2.2140221402214024,7.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(10,15]",16,542,2.952029520295203,12.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(15,20]",12,542,2.2140221402214024,17.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(20,25]",11,542,2.029520295202952,22.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(25,30]",9,542,1.6605166051660516,27.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(30,35]",9,542,1.6605166051660516,32.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(35,40]",6,542,1.1070110701107012,37.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(40,45]",13,542,2.3985239852398523,42.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(45,50]",10,542,1.845018450184502,47.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(50,55]",6,542,1.1070110701107012,52.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(55,60]",15,542,2.7675276752767526,57.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(60,65]",16,542,2.952029520295203,62.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(65,70]",21,542,3.874538745387454,67.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(70,75]",17,542,3.1365313653136533,72.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(75,80]",0,542,0,77.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),FALSE,"(80,85]",0,542,0,82.5,"Pre-rule: 2014-2019, 2022-2023"
+High-minute non-stars (prior-season status),TRUE,"(0,5]",16,239,6.694560669456067,2.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(5,10]",12,239,5.02092050209205,7.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(10,15]",7,239,2.928870292887029,12.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(15,20]",4,239,1.6736401673640167,17.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(20,25]",4,239,1.6736401673640167,22.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(25,30]",8,239,3.3472803347280333,27.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(30,35]",9,239,3.7656903765690375,32.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(35,40]",7,239,2.928870292887029,37.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(40,45]",3,239,1.2552301255230125,42.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(45,50]",4,239,1.6736401673640167,47.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(50,55]",8,239,3.3472803347280333,52.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(55,60]",5,239,2.092050209205021,57.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(60,65]",8,239,3.3472803347280333,62.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(65,70]",10,239,4.184100418410042,67.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(70,75]",6,239,2.510460251046025,72.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(75,80]",0,239,0,77.5,Post-rule: 2024-2026
+High-minute non-stars (prior-season status),TRUE,"(80,85]",0,239,0,82.5,Post-rule: 2024-2026
+Stars,FALSE,"(0,5]",23,327,7.033639143730887,2.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(5,10]",4,327,1.2232415902140672,7.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(10,15]",8,327,2.4464831804281344,12.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(15,20]",10,327,3.058103975535168,17.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(20,25]",3,327,0.9174311926605505,22.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(25,30]",12,327,3.669724770642202,27.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(30,35]",8,327,2.4464831804281344,32.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(35,40]",9,327,2.7522935779816513,37.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(40,45]",6,327,1.834862385321101,42.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(45,50]",6,327,1.834862385321101,47.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(50,55]",11,327,3.363914373088685,52.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(55,60]",8,327,2.4464831804281344,57.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(60,65]",6,327,1.834862385321101,62.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(65,70]",8,327,2.4464831804281344,67.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(70,75]",5,327,1.529051987767584,72.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(75,80]",0,327,0,77.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,FALSE,"(80,85]",0,327,0,82.5,"Pre-rule: 2014-2019, 2022-2023"
+Stars,TRUE,"(0,5]",10,132,7.575757575757576,2.5,Post-rule: 2024-2026
+Stars,TRUE,"(5,10]",4,132,3.0303030303030303,7.5,Post-rule: 2024-2026
+Stars,TRUE,"(10,15]",6,132,4.545454545454546,12.5,Post-rule: 2024-2026
+Stars,TRUE,"(15,20]",2,132,1.5151515151515151,17.5,Post-rule: 2024-2026
+Stars,TRUE,"(20,25]",1,132,0.7575757575757576,22.5,Post-rule: 2024-2026
+Stars,TRUE,"(25,30]",1,132,0.7575757575757576,27.5,Post-rule: 2024-2026
+Stars,TRUE,"(30,35]",2,132,1.5151515151515151,32.5,Post-rule: 2024-2026
+Stars,TRUE,"(35,40]",3,132,2.272727272727273,37.5,Post-rule: 2024-2026
+Stars,TRUE,"(40,45]",6,132,4.545454545454546,42.5,Post-rule: 2024-2026
+Stars,TRUE,"(45,50]",6,132,4.545454545454546,47.5,Post-rule: 2024-2026
+Stars,TRUE,"(50,55]",4,132,3.0303030303030303,52.5,Post-rule: 2024-2026
+Stars,TRUE,"(55,60]",7,132,5.303030303030303,57.5,Post-rule: 2024-2026
+Stars,TRUE,"(60,65]",7,132,5.303030303030303,62.5,Post-rule: 2024-2026
+Stars,TRUE,"(65,70]",5,132,3.787878787878788,67.5,Post-rule: 2024-2026
+Stars,TRUE,"(70,75]",1,132,0.7575757575757576,72.5,Post-rule: 2024-2026
+Stars,TRUE,"(75,80]",0,132,0,77.5,Post-rule: 2024-2026
+Stars,TRUE,"(80,85]",0,132,0,82.5,Post-rule: 2024-2026

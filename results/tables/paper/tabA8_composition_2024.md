@@ -1,0 +1,9 @@
+**Decomposition of the 2023 to 2024 change in mean games: stayers, entrants and leavers**
+
+|                      Outcome                       | Mean 2023 (n) | Mean 2024 (n) | Raw change | Stayers: n | Stayers 2023 | Stayers 2024 | Stayers change | Entrants 2024 (n) | Leavers 2023 (n) |
+|----------------------------------------------------|---------------|---------------|------------|------------|--------------|--------------|----------------|-------------------|------------------|
+|                Stars: games played                 |   59.4 (45)   |   65.0 (46)   |    5.6     |     39     |     61.3     |     64.2     |      2.9       |     69.6 (7)      |     46.7 (6)     |
+|              Stars: qualifying games               |   58.4 (45)   |   64.5 (46)   |    6.1     |     39     |     60.6     |     63.7     |      3.0       |     69.3 (7)      |     44.2 (6)     |
+| High-minute non-stars (prior season): games played |   65.6 (82)   |   66.1 (90)   |    0.6     |     50     |     69.7     |     66.0     |      -3.8      |     66.4 (40)     |    59.1 (32)     |
+
+Note: Stayers are players in the group in both seasons; entrants are 2024 members who were not members in 2023; leavers are 2023 members who were not members in 2024. The within-player event-study coefficient is identified from stayers.

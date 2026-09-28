@@ -1,0 +1,10 @@
+period,class,n,share
+post,no row (reason unknown),221,0.8095238095238095
+post,injury or illness,41,0.15018315018315018
+post,rest,7,0.02564102564102564
+post,other,4,0.014652014652014652
+pre,no row (reason unknown),345,0.5493630573248408
+pre,injury or illness,113,0.17993630573248406
+pre,coach's decision,107,0.17038216560509553
+pre,rest,52,0.08280254777070063
+pre,other,11,0.01751592356687898

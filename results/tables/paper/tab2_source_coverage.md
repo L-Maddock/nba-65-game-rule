@@ -1,0 +1,17 @@
+**ESPN box-score coverage of absences, by season**
+
+| Season | Star team-games | Star absences | Star absence rate | Star absences with a DNP row | Non-star team-games | Non-star absences | Non-star absence rate | Non-star absences with a DNP row |
+|--------|-----------------|---------------|-------------------|------------------------------|---------------------|-------------------|-----------------------|----------------------------------|
+|  2014  |      3331       |      860      |       25.8%       |             29%              |         NA          |        NA         |                       |                                  |
+|  2015  |      3520       |      804      |       22.8%       |             28%              |        7211         |       1366        |         18.9%         |               30%                |
+|  2016  |      3769       |      590      |       15.7%       |             37%              |        5826         |       1074        |         18.4%         |               38%                |
+|  2017  |      3269       |      459      |       14.0%       |             40%              |        6444         |       1240        |         19.2%         |               35%                |
+|  2018  |      2945       |      634      |       21.5%       |             15%              |        6033         |       1348        |         22.3%         |               17%                |
+|  2019  |      3030       |      694      |       22.9%       |             15%              |        5860         |       1238        |         21.1%         |               16%                |
+|  2022  |      3193       |      927      |       29.0%       |             10%              |        6217         |       1588        |         25.5%         |                9%                |
+|  2023  |      3655       |      984      |       26.9%       |              7%              |        6710         |       1334        |         19.9%         |               17%                |
+|  2024  |      3773       |      781      |       20.7%       |              8%              |        7311         |       1351        |         18.5%         |               19%                |
+|  2025  |      3738       |      863      |       23.1%       |             16%              |        6603         |       1578        |         23.9%         |               23%                |
+|  2026  |      3250       |     1053      |       32.4%       |             10%              |        5524         |       1520        |         27.5%         |               22%                |
+
+Note: Team-games: every regular-season game of the player's team stint(s). An absence is a team-game the player did not play. A DNP row is an ESPN box-score line for a player who did not play; it carries a reason string. Absences without a row carry no information beyond the fact of absence. Non-stars are high-minute non-stars by prior-season status.

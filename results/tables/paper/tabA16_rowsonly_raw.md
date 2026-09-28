@@ -1,0 +1,17 @@
+**Late-season 'rest' rates computed on ESPN rows only (exploratory construction)**
+
+| Season | Stars: share sat (ESPN rows only) | Contemporaneous control: share sat (ESPN rows only) | Star player-games | Control player-games |
+|--------|-----------------------------------|-----------------------------------------------------|-------------------|----------------------|
+|  2014  |               0.071               |                        0.030                        |        776        |         2301         |
+|  2015  |               0.058               |                        0.041                        |        824        |         1721         |
+|  2016  |               0.068               |                        0.037                        |        981        |         1809         |
+|  2017  |               0.055               |                        0.030                        |        851        |         1773         |
+|  2018  |               0.028               |                        0.024                        |        713        |         1630         |
+|  2019  |               0.036               |                        0.030                        |        758        |         1693         |
+|  2022  |               0.032               |                        0.027                        |        709        |         1834         |
+|  2023  |               0.011               |                        0.021                        |        842        |         2110         |
+|  2024  |               0.017               |                        0.032                        |        906        |         1739         |
+|  2025  |               0.042               |                        0.054                        |        835        |         1372         |
+|  2026  |               0.014               |                        0.036                        |        633        |         1486         |
+
+Note: Player-games with an ESPN row whose previous ESPN row was a game played, games 56 onward; the outcome is a did-not-play row. This construction omits inactive-list absences and tracks roster designation (Table 2); it is shown only to document the earlier numbers.

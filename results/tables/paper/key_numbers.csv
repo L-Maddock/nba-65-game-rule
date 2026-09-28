@@ -1,0 +1,267 @@
+name,value,source
+stars_per_season_range,36-46,tab1_sample
+star_gp_2023,59.4,tab1_sample
+star_gp_2024,65.0,tab1_sample
+star_ge65_2023,0.44,tab1_sample
+star_ge65_2024,0.67,tab1_sample
+stars_no_appearance_total,14,tab1_sample
+dnp_cov_star_2014_2017,28%-40%,tab2_source_coverage
+dnp_cov_star_2023,7%,tab2_source_coverage
+dnp_cov_star_post_range,8%-16%,tab2_source_coverage
+star_absence_rate_range,14%-32%,tab2_source_coverage
+cohort_2024_did,4.66 (3.44),tabA9_cohort_pairs
+cohort_2024_p,0.18,tabA9_cohort_pairs
+cohort_2024_star,60.5 to 63.3,tabA9_cohort_pairs
+cohort_2024_ctrl,65.8 to 63.9,tabA9_cohort_pairs
+cohort_2024_n_star,44,tabA9_cohort_pairs
+cohort_2024_n_ctrl,80,tabA9_cohort_pairs
+cohort_pre_range,-3.59 to 4.15,tabA9_cohort_pairs
+cohort_max_pair,2023->2024,tabA9_cohort_pairs
+cohort_1516,4.15 (3.77),tabA9_cohort_pairs
+cohort_2425,3.91 (3.32),tabA9_cohort_pairs
+cohort_2526,-5.16 (4.64),tabA9_cohort_pairs
+qg_ratio_rot_2023,0.644,qg_gp_ratio_by_group.csv
+qg_ratio_rot_2024,0.659,qg_gp_ratio_by_group.csv
+qg_ratio_rot_2025,0.735,qg_gp_ratio_by_group.csv
+qg_ratio_star_2023,0.972,qg_gp_ratio_by_group.csv
+qg_ratio_star_2024,0.992,qg_gp_ratio_by_group.csv
+qg_ratio_hm_2023,0.914,qg_gp_ratio_by_group.csv
+qg_ratio_hm_2024,0.915,qg_gp_ratio_by_group.csv
+did_qg_pooled_rot_p,0.003,tab3b_availability_pooled
+es_qg_rot_2017,5.60 (2.76),tab3a_availability_event_study
+es_qg_rot_2024,8.40 (2.94),tab3a_availability_event_study
+es_qg_rot_2025,8.55 (2.93),tab3a_availability_event_study
+es_gp_rot_2017,5.10 (2.27),tab3a_availability_event_study
+did_gp_pooled_contemp,1.05 (1.41),tab3b_availability_pooled
+es_gp_2024_contemp,1.07 (2.04),tab3a_availability_event_study
+did_gp_pooled,-0.81 (2.32),tab3b_availability_pooled
+did_gp_pooled_ci,"[-5.37, 3.75]",tab3b_availability_pooled
+did_gp_pooled_mde,6.5,tab3b_availability_pooled
+did_qg_pooled,1.72 (2.45),tab3b_availability_pooled
+did_qg_pooled_hi,6.5,tab3b_availability_pooled
+did_qg_pooled_mde,6.9,tab3b_availability_pooled
+es_gp_2024,-0.41 (2.95),tab3a_availability_event_study
+es_gp_mde_2024,8.3,tab3a_availability_event_study
+es_gp_2025,-0.20 (3.00),tab3a_availability_event_study
+es_gp_mde_2025,8.4,tab3a_availability_event_study
+es_gp_2026,-2.87 (4.48),tab3a_availability_event_study
+es_gp_mde_2026,12.6,tab3a_availability_event_study
+did_gp_pooled_rot,2.47 (2.14),tab3b_availability_pooled
+did_qg_pooled_rot,6.81 (2.30),tab3b_availability_pooled
+es_qg_2024,2.04 (3.15),tab3a_availability_event_study
+es_qg_mde_2024,8.8,tab3a_availability_event_study
+es_qg_2025,2.00 (3.11),tab3a_availability_event_study
+es_qg_mde_2025,8.7,tab3a_availability_event_study
+es_qg_2026,-0.12 (4.59),tab3a_availability_event_study
+es_qg_mde_2026,12.9,tab3a_availability_event_study
+es_gp_pre_range,-5.30 to 3.28,tab3a_availability_event_study
+es_gp_pre_max_mde,12.7,tab3a_availability_event_study
+es_gp_n_players,255,tab3b_availability_pooled
+es_gp_n_ps,1093,tab3b_availability_pooled
+did_ge65_pooled,0.067 (0.070),tab3b_availability_pooled
+did_ge65_mde,0.20,tab3b_availability_pooled
+bunch_b_1,"0.93 [-0.38, 4.57]",tab4b_bunching_excess_mass
+bunch_obs_cf_1,7 vs 3.6,tab4b_bunching_excess_mass
+bunch_b_2,"-0.42 [-1.45, 1.30]",tab4b_bunching_excess_mass
+bunch_obs_cf_2,7 vs 8.9,tab4b_bunching_excess_mass
+bunch_b_3,"-0.62 [-2.24, 1.81]",tab4b_bunching_excess_mass
+bunch_obs_cf_3,14 vs 16.6,tab4b_bunching_excess_mass
+bunch_b_recent_wide,"-2.22 [-3.11, -0.76]",tab4b_bunching_excess_mass
+bunch_n_pre,327,tab4b_bunching_excess_mass
+bunch_n_post,132,tab4b_bunching_excess_mass
+bunch_share_post_65_68,0.106,tab4a_bunching_bins
+bunch_share_pre_65_68,0.125,tab4a_bunching_bins
+bunch_share_post_58_64,0.114,tab4a_bunching_bins
+bunch_share_pre_58_64,0.122,tab4a_bunching_bins
+bound_min_pre,0.67,tab5c_bound
+bound_max_pre,1.27,tab5c_bound
+bound_min_post,0.96,tab5c_bound
+bound_max_post,1.85,tab5c_bound
+at_risk_per_season_pre,10.2,tab5c_bound
+at_risk_per_season_post,11.3,tab5c_bound
+at_risk_share_pre,0.25,tab5c_bound
+at_risk_range,5-18,at_risk_bound_by_season.csv
+reach_healthy_est,0.06 (0.13),tab5b_at_risk_regressions
+reach_healthy_mde,0.35,tab5b_at_risk_regressions
+reach_healthy_n_post,21,tab5b_at_risk_regressions
+reach_healthy_pre,0.58,tab5b_at_risk_regressions
+reach_healthy_post,0.67,tab5b_at_risk_regressions
+abs_reach_pre,7.1%,tab6a_absence_by_state
+abs_reach_post,9.1%,tab6a_absence_by_state
+abs_sec_pre,10.8%,tab6a_absence_by_state
+abs_sec_post,12.4%,tab6a_absence_by_state
+abs_unr_pre,14.6%,tab6a_absence_by_state
+abs_unr_post,16.1%,tab6a_absence_by_state
+abs_n_pre_total,6512,tab6a_absence_by_state
+abs_n_post_total,2421,tab6a_absence_by_state
+reg_state_secured_post,-0.011 (0.019),tab6b_absence_state_regressions
+reg_mde_state_secured_post,0.053,tab6b_absence_state_regressions
+reg_state_unreachable_post,0.009 (0.137),tab6b_absence_state_regressions
+reg_mde_state_unreachable_post,0.384,tab6b_absence_state_regressions
+reg_no_incentive_post,-0.005 (0.019),tab6b_absence_state_regressions
+reg_mde_no_incentive_post,0.053,tab6b_absence_state_regressions
+reg_state_unreachable,-0.137 (0.042),tab6b_absence_state_regressions
+reg_mde_state_unreachable,0.118,tab6b_absence_state_regressions
+pooled_abs_1,-0.019 (0.016),tab6c_absence_star_vs_nonstar
+pooled_abs_mde_1,0.044,tab6c_absence_star_vs_nonstar
+pooled_abs_2,-0.023 (0.015),tab6c_absence_star_vs_nonstar
+pooled_abs_mde_2,0.043,tab6c_absence_star_vs_nonstar
+pooled_abs_3,0.010 (0.016),tab6c_absence_star_vs_nonstar
+pooled_abs_mde_3,0.045,tab6c_absence_star_vs_nonstar
+rest_lower_bound_pre,25.3%,rest_absence_reason_bounds.csv
+rest_lower_bound_post,2.6%,rest_absence_reason_bounds.csv
+abs_with_row_pre,45%,rest_absence_reason_bounds.csv
+abs_with_row_post,19%,rest_absence_reason_bounds.csv
+raw_abs_star_range,7.9%-13.2%,rest_raw_by_season.csv
+raw_abs_nonstar_range,-,rest_raw_by_season.csv
+rowsonly_star_2014,7.1%,rest_raw_by_season_rowsonly.csv
+rowsonly_star_2023,1.1%,rest_raw_by_season_rowsonly.csv
+tv_ddd,-0.023 (0.021),rest_tv_ddd.csv
+es_abs_2024,-0.008 (0.018),tabA1_absence_event_study
+es_abs_mde_2024,0.050,tabA1_absence_event_study
+es_abs_2025,-0.017 (0.025),tabA1_absence_event_study
+es_abs_mde_2025,0.069,tabA1_absence_event_study
+es_abs_2026,-0.018 (0.024),tabA1_absence_event_study
+es_abs_mde_2026,0.068,tabA1_absence_event_study
+es_abs_2022,0.031 (0.020),tabA1_absence_event_study
+gap_level_range,-0.048 to 0.089,rest_gap_by_season.csv
+rowsonly_es_2026,-0.021 (0.010),tabA1_absence_event_study
+h4_post_tight_n,185,tabA2_minute_bins
+h4_post_tight_players,16,tabA2_minute_bins
+h4_share2030_pre_tight,0.34,minutes_summary.csv
+h4_share2030_post_tight,0.41,minutes_summary.csv
+h4_share2030_post_nottight,0.24,minutes_summary.csv
+h4_share2030_pre_nottight,0.28,minutes_summary.csv
+h4_se_post_tight,0.04,minutes_summary.csv
+h4_share2030_post_tight_nrr,0.36,minutes_summary.csv
+h4_share2030_pre_tight_nrr,0.33,minutes_summary.csv
+spell_ratio_high_minute_nonstar,1.18,absences_rise_by_group.csv
+spells_per_ss_pre_high_minute_nonstar,0.39,tabA3_long_absences
+spells_per_ss_post_high_minute_nonstar,0.46,tabA3_long_absences
+spells_start_late_pre_high_minute_nonstar,32%,tabA3_long_absences
+spells_start_late_post_high_minute_nonstar,26%,tabA3_long_absences
+spell_ratio_star,1.27,absences_rise_by_group.csv
+spells_per_ss_pre_star,0.39,tabA3_long_absences
+spells_per_ss_post_star,0.49,tabA3_long_absences
+spells_start_late_pre_star,21%,tabA3_long_absences
+spells_start_late_post_star,31%,tabA3_long_absences
+spells_share_ss_pre_nonstar,34%,tabA3_long_absences
+spells_share_ss_post_nonstar,38%,tabA3_long_absences
+spells_share_ss_pre_star,33%,tabA3_long_absences
+spells_share_ss_post_star,39%,tabA3_long_absences
+spells_per_ss_star_2023,0.58,absences_by_season.csv
+spells_per_ss_star_2024,0.33,absences_by_season.csv
+spells_per_ss_star_2025,0.43,absences_by_season.csv
+spells_per_ss_star_2026,0.75,absences_by_season.csv
+spells_per_ss_high_minute_nonstar_2023,0.35,absences_by_season.csv
+spells_per_ss_high_minute_nonstar_2024,0.38,absences_by_season.csv
+spells_per_ss_high_minute_nonstar_2025,0.48,absences_by_season.csv
+spells_per_ss_high_minute_nonstar_2026,0.56,absences_by_season.csv
+comp_star_raw_change,5.6,tabA8_composition_2024
+comp_star_stayers_change,2.9,tabA8_composition_2024
+comp_star_n_stayers,39,tabA8_composition_2024
+comp_star_stayers_2023,61.3,tabA8_composition_2024
+comp_star_stayers_2024,64.2,tabA8_composition_2024
+comp_star_entrants_2024,69.6,tabA8_composition_2024
+comp_star_n_entrants,7,tabA8_composition_2024
+comp_star_leavers_2023,46.7,tabA8_composition_2024
+comp_star_n_leavers,6,tabA8_composition_2024
+comp_control_raw_change,0.6,tabA8_composition_2024
+comp_control_stayers_change,-3.8,tabA8_composition_2024
+comp_raw_did,5.1,tabA8_composition_2024
+comp_stayer_did,6.6,tabA8_composition_2024
+spells_pre,127,tabA3_long_absences
+spells_post,65,tabA3_long_absences
+spells_per_ss_pre,0.39,tabA3_long_absences
+spells_per_ss_post,0.49,tabA3_long_absences
+spells_rest_coach_pre,11%,tabA3_long_absences
+spells_rest_coach_post,0%,tabA3_long_absences
+spells_games_lost_pre,10.0,tabA3_long_absences
+spells_games_lost_post,11.0,tabA3_long_absences
+spells_start_late_pre,21%,tabA3_long_absences
+spells_start_late_post,31%,tabA3_long_absences
+bbr_matches,9,tabA5_bbr_validation
+t5d_rows,21,tab5d_case_table
+t5d_below65_with_votes,1,tab5d_case_table
+bw_55_0-12_pre,1.07 / 2.42 (16.8 at risk),tabA10_bound_windows
+bw_55_0-12_post,1.71 / 3.79 (20.7 at risk),tabA10_bound_windows
+bw_55_0-8_pre,0.89 / 1.55 (9.5 at risk),tabA10_bound_windows
+bw_55_0-8_post,1.30 / 2.10 (9.7 at risk),tabA10_bound_windows
+bw_62_0-12_pre,0.75 / 2.05 (17.9 at risk),tabA10_bound_windows
+bw_62_0-12_post,0.99 / 2.55 (20.3 at risk),tabA10_bound_windows
+bw_62_0-8_pre,0.67 / 1.28 (10.2 at risk),tabA10_bound_windows
+bw_62_0-8_post,0.98 / 1.83 (11.3 at risk),tabA10_bound_windows
+slack9_short_pre,1.0,at_risk_slack9plus_summary.csv
+slack9_short_post,1.0,at_risk_slack9plus_summary.csv
+slack9_bound_add_pre,0.10,at_risk_slack9plus_summary.csv
+slack9_n_pre,19.2,at_risk_slack9plus_summary.csv
+exact65_all_star_reachers_pre,9 of 192 (0.05),tabA11_exact65
+exact65_all_star_reachers_post,7 of 75 (0.09),tabA11_exact65
+exact65_at_risk_reachers_pre,8 of 46 (0.17),tabA11_exact65
+exact65_at_risk_reachers_post,6 of 18 (0.33),tabA11_exact65
+exact65_healthy_at_risk_reachers_pre,8 of 42 (0.19),tabA11_exact65
+exact65_healthy_at_risk_reachers_post,5 of 14 (0.36),tabA11_exact65
+exact65_p_all_star_reachers,0.16,tabA11_exact65
+exact65_p_at_risk_reachers,0.19,tabA11_exact65
+exact65_p_healthy_at_risk_reachers,0.27,tabA11_exact65
+share20_rawdid_2015-2023,0.029,tabA15_share20_specs
+share20_rawdid_2022-2023,0.020,tabA15_share20_specs
+share20_rawdid_2023,0.004,tabA15_share20_specs
+share20_star_pre_pooled,0.954,tabA15_share20_specs
+share20_star_post_pooled,0.984,tabA15_share20_specs
+share20_ctrl_pre_pooled,0.911,tabA15_share20_specs
+share20_ctrl_post_pooled,0.912,tabA15_share20_specs
+share20_spec_1,"Player, season and game-number FE: 0.046 (0.010), p = 0.000",tabA15_share20_specs
+share20_spec_2,"No player FE (star indicator, season and game-number FE): 0.027 (0.014), p = 0.048",tabA15_share20_specs
+share20_spec_3,"Never-switchers, player FE: 0.060 (0.016), p = 0.000",tabA15_share20_specs
+share20_spec_4,"Never-switchers, no player FE: 0.028 (0.021), p = 0.169",tabA15_share20_specs
+share20_spec_5,"2022-2026 only, player FE: 0.041 (0.010), p = 0.000",tabA15_share20_specs
+share20_spec_6,"2022-2026 only, no player FE: 0.020 (0.015), p = 0.177",tabA15_share20_specs
+share20_spec_7,"Player FE plus star-specific linear trend: 0.044 (0.011), p = 0.000",tabA15_share20_specs
+share20_spec_8,"No player FE plus star-specific linear trend: 0.021 (0.019), p = 0.267",tabA15_share20_specs
+sub20_high_minute_nonstar_2015-2022,5.76,minutes_sub20_by_period.csv
+sub20_high_minute_nonstar_2023,6.01,minutes_sub20_by_period.csv
+sub20_high_minute_nonstar_post,5.54,minutes_sub20_by_period.csv
+sub20_star_2015-2022,3.23,minutes_sub20_by_period.csv
+sub20_star_2023,1.42,minutes_sub20_by_period.csv
+sub20_star_post,1.00,minutes_sub20_by_period.csv
+share20_es_nofe_2024,0.015 (0.021),tabA12_share20_event_study
+share20_es_nofe_2025,-0.006 (0.020),tabA12_share20_event_study
+share20_es_nofe_2026,0.001 (0.024),tabA12_share20_event_study
+share20_es_nofe_pre_min,-0.049,tabA12_share20_event_study
+share20_pooled_all_games,0.046 (0.010),minutes_share20_es.csv
+share20_pooled_mde_all_games,0.029,minutes_share20_es.csv
+share20_pooled_p_all_games,0.000,minutes_share20_es.csv
+share20_pooled_late_season,0.070 (0.016),minutes_share20_es.csv
+share20_pooled_mde_late_season,0.046,minutes_share20_es.csv
+share20_pooled_p_late_season,0.000,minutes_share20_es.csv
+share20_es_2024,0.043 (0.016),tabA12_share20_event_study
+share20_es_2025,0.040 (0.013),tabA12_share20_event_study
+share20_es_2026,0.055 (0.016),tabA12_share20_event_study
+share20_star_2019,0.964,tabA12_share20_event_study
+share20_ctrl_2019,0.923,tabA12_share20_event_study
+share20_star_2022,0.970,tabA12_share20_event_study
+share20_ctrl_2022,0.937,tabA12_share20_event_study
+share20_star_2023,0.976,tabA12_share20_event_study
+share20_ctrl_2023,0.908,tabA12_share20_event_study
+share20_star_2024,0.985,tabA12_share20_event_study
+share20_ctrl_2024,0.903,tabA12_share20_event_study
+share20_star_2025,0.984,tabA12_share20_event_study
+share20_ctrl_2025,0.922,tabA12_share20_event_study
+share20_star_2026,0.981,tabA12_share20_event_study
+share20_ctrl_2026,0.912,tabA12_share20_event_study
+share20_pre_max_abs,0.025,tabA12_share20_event_study
+share20_pre_min_p,0.297,tabA12_share20_event_study
+late_onset_dd,"0.158 [-0.012, 0.329]",tabA13_late_onset
+late_onset_high_minute_nonstar_post,29 of 111,tabA13_late_onset
+late_onset_high_minute_nonstar_pre,69 of 213,tabA13_late_onset
+late_onset_star_post,20 of 65,tabA13_late_onset
+late_onset_star_pre,27 of 127,tabA13_late_onset
+late_onset_p_high_minute_nonstar,0.25,tabA13_late_onset
+late_onset_p_star,0.16,tabA13_late_onset
+bbr_box_games,7,tabA14_bbr_boxscore_check
+bbr_box_dnp_match,40 of 40,tabA14_bbr_boxscore_check
+bbr_box_inactive_with_row,0,tabA14_bbr_boxscore_check
+bbr_box_stars_inactive,7 of 7,tabA14_bbr_boxscore_check
+exh_qg_changed_range_pre2024,10-17,tabA7_exhibition_correction
+exh_crossed_total,2,tabA7_exhibition_correction

@@ -1,0 +1,11 @@
+season,player,espn_name,bbr_games_played,source
+2024,Joel Embiid,Joel Embiid,39,"web lookup 2026-09-15 (ESPN game log, StatMuse); BBR not re-requested"
+2024,Tyrese Haliburton,Tyrese Haliburton,69,"cached BBR awards_2024.html (MIP and All-NBA voting tables, G column)"
+2023,Stephen Curry,Stephen Curry,56,"cached BBR awards_2023.html (MVP voting table, G column)"
+2025,Luka Doncic,Luka Doncic,50,"web lookup 2026-09-15 (22 DAL + 28 LAL); BBR not re-requested"
+2024,Nikola Jokic,Nikola Jokic,79,"cached BBR awards_2024.html (MVP voting table, G column)"
+2023,LeBron James,LeBron James,55,"cached BBR awards_2023.html (All-NBA voting table, G column)"
+2022,Kawhi Leonard,Kawhi Leonard,0,"missed the entire 2021-22 season (ACL); web lookup 2026-09-15"
+2024,Jimmy Butler,Jimmy Butler III,60,"web lookup 2026-09-15; BBR not re-requested"
+2024,Donovan Mitchell,Donovan Mitchell,55,"web lookup 2026-09-15 (StatMuse); BBR not re-requested"
+2026,Victor Wembanyama,Victor Wembanyama,64,"cached BBR awards_2026.html (MVP, DPOY, All-NBA voting tables, G column)"

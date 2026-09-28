@@ -1,0 +1,7 @@
+contender,slack_bin,n_pre,n_post,reached_pre,reached_post
+FALSE,0-2,13,1,0.31,0
+FALSE,3-5,18,10,0.72,0.7
+FALSE,6-8,15,8,0.67,0.25
+TRUE,0-2,9,5,0.44,0.4
+TRUE,3-5,13,2,0.62,0
+TRUE,6-8,14,8,0.5,0.88

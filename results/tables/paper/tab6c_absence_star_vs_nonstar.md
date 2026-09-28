@@ -1,0 +1,9 @@
+**Star-specific change in late-season absence at the 2017 policy and the 2023 rule**
+
+|                    Window                    | Player-games |    Est (SE)    |     95% CI      |  MDE  |
+|----------------------------------------------|--------------|----------------|-----------------|-------|
+|    2014-2026: post-rule (2024-26) x star     |    24606     | -0.019 (0.016) | [-0.050, 0.012] | 0.044 |
+|    2022-2026: post-rule (2024-26) x star     |    11807     | -0.023 (0.015) | [-0.053, 0.008] | 0.043 |
+| 2014-2019: post-2017-policy (2018-19) x star |    12799     | 0.010 (0.016)  | [-0.022, 0.041] | 0.045 |
+
+Note: Stars vs high-minute non-stars who played the previous game, games 56 onward, full schedule. Player, season and team-game-number fixed effects; SEs clustered by player. MDE at 80% power.

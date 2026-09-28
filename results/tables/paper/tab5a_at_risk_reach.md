@@ -1,0 +1,9 @@
+**Healthy at-risk stars at team game 62: did they reach 65?**
+
+| Slack at game 62 | Pre: n | Pre: reached 65 | Post: n | Post: reached 65 | Fisher p |
+|------------------|--------|-----------------|---------|------------------|----------|
+|       0-2        |   20   |      0.40       |    2    |       1.00       |   0.19   |
+|       3-5        |   27   |      0.70       |    8    |       0.62       |   0.69   |
+|       6-8        |   25   |      0.60       |   11    |       0.64       |   1.00   |
+
+Note: At risk: 0-8 games of slack at team game 62 (qualifying games so far plus games left minus 65). Healthy: played at least two of games 60-62. Reached: >= 65 qualifying games at season end. Fisher exact test of pre vs post.

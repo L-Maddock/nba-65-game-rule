@@ -1,0 +1,10 @@
+**State x post-rule regressions of late-season absence, stars**
+
+|           Specification            |        Term         |    Est (SE)    |  p   |  MDE  |
+|------------------------------------|---------------------|----------------|------|-------|
+| state main effects + state x post  |       secured       | 0.006 (0.013)  | 0.61 | 0.036 |
+| state main effects + state x post  |   secured x post    | -0.011 (0.019) | 0.56 | 0.053 |
+| no-incentive + no-incentive x post |    no incentive     | -0.004 (0.012) | 0.73 | 0.034 |
+| no-incentive + no-incentive x post | no incentive x post | -0.005 (0.019) | 0.78 | 0.053 |
+
+Note: Player-season and team-game-number fixed effects; SEs clustered by player. Reference state: reachable. MDE at 80% power. The unreachable state is omitted: within a player-season its games follow a long absence, so the within-player contrast is mechanically negative and the post interaction is identified from few transitions; Table 6a carries that state.

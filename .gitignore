@@ -1,0 +1,22 @@
+# Re-downloadable raw pulls and cached third-party pages
+data/raw/
+# Run logs and editor/OS noise
+logs/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+# Uncomment if player_box.rds is over 50 MB
+# data/intermediate/player_box.rds
+# Regenerable model objects and large intermediates (rebuilt by scripts 01 and 04)
+data/derived/rest_models.rds
+data/intermediate/player_box.rds
+# Duplicate packaging and build artifacts
+latex_folder.zip
+tex_zip/
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+docs/draft/*.html

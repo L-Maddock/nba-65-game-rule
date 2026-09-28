@@ -1,0 +1,87 @@
+% Built by scripts/09_jse_to_tex.R from docs/draft/draft_v4_jse.md (Journal of Sports Economics / APA 7 layout).
+% Compile from docs/draft: pdflatex draft_v4_jse.tex (twice).
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{mathptmx}
+\usepackage[T1]{fontenc}\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs,threeparttable,graphicx,float,array}
+\usepackage{setspace}\doublespacing
+\usepackage{endnotes}\renewcommand{\notesname}{Footnotes}
+\usepackage{caption}
+\captionsetup[table]{labelsep=newline,labelfont=bf,textfont=it,justification=raggedright,singlelinecheck=false,font=doublespacing}
+\captionsetup[figure]{labelsep=period,labelfont=it,justification=raggedright,singlelinecheck=false,font=doublespacing}
+\usepackage{hanging}
+\usepackage[hidelinks]{hyperref}\usepackage{xurl}
+\emergencystretch 3em
+\setlength{\parindent}{0.5in}
+\newcommand{\lone}[1]{\par\medskip\noindent\begin{center}\textbf{#1}\end{center}\par\nopagebreak}
+\newcommand{\ltwo}[1]{\par\medskip\noindent\textbf{#1}\par\nopagebreak}
+\newcommand{\lthree}[1]{\par\noindent\hspace{\parindent}\textbf{#1.}\ }
+\pagestyle{plain}
+\begin{document}
+
+\begin{center}\textbf{
+A Bright Line That Binds on Few: The NBA's 65-Game Rule and Star Availability
+}\\[1em] Supplementary material\end{center}
+\setcounter{table}{0}\renewcommand{\thetable}{A\arabic{table}}
+\setcounter{figure}{0}\renewcommand{\thefigure}{A\arabic{figure}}
+\lone{Appendix A. Additional Tables and Figures}
+\noindent Tables A1 to A19 and Figures A1 to A3 are referenced in the text of the main manuscript. Table and figure sources are listed in the Markdown source of the manuscript.\clearpage
+\input{../../results/tables/paper/tab4a_bunching_bins.tex}
+\clearpage
+\input{../../results/tables/paper/tab5a_at_risk_reach.tex}
+\clearpage
+\input{../../results/tables/paper/tab5b_at_risk_regressions.tex}
+\clearpage
+\input{../../results/tables/paper/tab6b_absence_state_regressions.tex}
+\clearpage
+\input{../../results/tables/paper/tabA1_absence_event_study.tex}
+\clearpage
+\input{../../results/tables/paper/tabA3_long_absences.tex}
+\clearpage
+\input{../../results/tables/paper/tabA8_composition_2024.tex}
+\clearpage
+\input{../../results/tables/paper/tabA9_cohort_pairs.tex}
+\clearpage
+\input{../../results/tables/paper/tabA10_bound_windows.tex}
+\clearpage
+\input{../../results/tables/paper/tabA11_exact65.tex}
+\clearpage
+\input{../../results/tables/paper/tabA11b_exact65_distribution.tex}
+\clearpage
+\input{../../results/tables/paper/tabA13_late_onset.tex}
+\clearpage
+\input{../../results/tables/paper/tabA14_bbr_boxscore_check.tex}
+\clearpage
+\input{../../results/tables/paper/tabA5_bbr_validation.tex}
+\clearpage
+\input{../../results/tables/paper/tabA7_exhibition_correction.tex}
+\clearpage
+\input{../../results/tables/paper/tabA2_minute_bins.tex}
+\clearpage
+\input{../../results/tables/paper/tabA4_absence_reasons.tex}
+\clearpage
+\input{../../results/tables/paper/tabA6_stars_no_appearance.tex}
+\clearpage
+\input{../../results/tables/paper/tabA16_rowsonly_raw.tex}
+\clearpage
+\begin{figure}[p]
+\centering
+\includegraphics[width=\linewidth]{../../results/figures/paper/figA1_at_risk_by_season.png}
+\caption{Stars at risk at team game 62 (slack 0-8), by season; black: at risk and did not reach 65; number above bar: stars that season.}
+\end{figure}
+\clearpage
+\begin{figure}[p]
+\centering
+\includegraphics[width=\linewidth]{../../results/figures/paper/figA2_absence_timing.png}
+\caption{Team game at which spells of 10 or more missed games began, per 100 player-seasons, stars and control, before and after the rule.}
+\end{figure}
+\clearpage
+\begin{figure}[p]
+\centering
+\includegraphics[width=\linewidth]{../../results/figures/paper/figA3_absence_by_state_by_season.png}
+\caption{Late-season absence of stars who played the previous game, by eligibility state and season; point size is the number of player-games in the cell.}
+\end{figure}
+\clearpage
+\end{document}

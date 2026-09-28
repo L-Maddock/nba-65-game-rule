@@ -1,0 +1,8 @@
+season,game_date,url,status,espn_rows,espn_dnp_rows,bbr_table_rows,bbr_dnp_rows,bbr_inactive,espn_rows_in_bbr_table,espn_dnp_in_bbr_dnp,espn_dnp_in_bbr_inactive,bbr_inactive_with_espn_row,star_checked,star_in_bbr_inactive,star_in_bbr_table,bbr_dnp_reasons
+2015,2014-12-03,https://www.basketball-reference.com/boxscores/201412030UTA.html,ok,26,6,68,6,3,26,6,0,0,DeMar DeRozan,TRUE,FALSE,Did Not Play | Did Not Dress
+2017,2016-12-28,https://www.basketball-reference.com/boxscores/201612280POR.html,ok,26,7,68,7,4,26,7,0,0,Damian Lillard,TRUE,FALSE,Did Not Play
+2019,2018-11-15,https://www.basketball-reference.com/boxscores/201811150LAC.html,ok,25,4,67,4,8,25,4,0,0,Pau Gasol,TRUE,FALSE,Did Not Play
+2023,2023-01-31,https://www.basketball-reference.com/boxscores/202301310DEN.html,ok,28,8,70,8,6,28,8,0,0,Zion Williamson,TRUE,FALSE,Did Not Play
+2024,2024-01-15,https://www.basketball-reference.com/boxscores/202401150TOR.html,ok,25,7,67,7,9,25,7,0,0,Jaylen Brown,TRUE,FALSE,Did Not Play | Did Not Dress
+2025,2025-03-15,https://www.basketball-reference.com/boxscores/202503150MEM.html,ok,25,3,67,3,11,25,3,0,0,Ja Morant,TRUE,FALSE,Did Not Play
+2026,2026-03-07,https://www.basketball-reference.com/boxscores/202603070MIL.html,ok,26,5,68,5,10,26,5,0,0,Jaren Jackson Jr.,TRUE,FALSE,Did Not Play

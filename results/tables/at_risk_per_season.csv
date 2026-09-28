@@ -1,0 +1,12 @@
+season,post_rule,stars,n_at_risk,n_at_risk_healthy,n_at_risk_reached,n_at_risk_healthy_reached,n_at_risk_cur_contender
+2014,FALSE,41,6,6,1,1,2
+2015,FALSE,43,13,11,10,9,6
+2016,FALSE,46,9,5,4,3,4
+2017,FALSE,40,5,4,1,1,1
+2018,FALSE,36,6,5,2,2,3
+2019,FALSE,37,10,10,7,7,4
+2022,FALSE,39,15,15,11,11,11
+2023,FALSE,45,18,16,10,8,12
+2024,TRUE,46,10,5,6,4,7
+2025,TRUE,46,12,7,4,3,8
+2026,TRUE,40,12,9,8,7,10

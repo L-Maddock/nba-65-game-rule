@@ -1,0 +1,17 @@
+**Sample by season: stars and the primary control group**
+
+| Season | Period | Stars | No appearance | Games played | Qualifying games | Share >= 65 | Contenders | High-minute non-stars (prior season) | Their games played |
+|--------|--------|-------|---------------|--------------|------------------|-------------|------------|--------------------------------------|--------------------|
+|  2014  |  Pre   |  41   |       0       |     60.3     |       57.9       |    0.49     |     21     |                  0                   |                    |
+|  2015  |  Pre   |  43   |       1       |     63.2     |       60.9       |    0.65     |     22     |                  88                  |        66.4        |
+|  2016  |  Pre   |  46   |       0       |     69.1     |       66.0       |    0.70     |     17     |                  71                  |        66.9        |
+|  2017  |  Pre   |  40   |       3       |     70.2     |       66.3       |    0.65     |     20     |                  79                  |        65.9        |
+|  2018  |  Pre   |  36   |       3       |     64.2     |       62.2       |    0.58     |     16     |                  74                  |        63.3        |
+|  2019  |  Pre   |  37   |       1       |     63.1     |       61.6       |    0.65     |     20     |                  72                  |        64.2        |
+|  2022  |  Pre   |  39   |       4       |     58.1     |       56.7       |    0.54     |     18     |                  76                  |        60.9        |
+|  2023  |  Pre   |  45   |       0       |     59.4     |       58.4       |    0.44     |     17     |                  82                  |        65.6        |
+|  2024  |  Post  |  46   |       0       |     65.0     |       64.5       |    0.67     |     19     |                  90                  |        66.1        |
+|  2025  |  Post  |  46   |       0       |     62.4     |       62.0       |    0.54     |     19     |                  81                  |        62.0        |
+|  2026  |  Post  |  40   |       2       |     54.8     |       54.4       |    0.47     |     16     |                  68                  |        58.8        |
+
+Note: Seasons indexed by end year; 2020 and 2021 excluded. Stars: All-Star or All-NBA in any of the prior three seasons (the PPP definition), with at least one ESPN box-score appearance. 'No appearance': flagged stars with no row in the season (retired or absent all season). All-Star and Rising Stars rows removed. Games played is the regular-season statistic and excludes the NBA Cup final; qualifying games follow the rule (>= 20 minutes plus up to two games of 15-19 minutes) and include the Cup final, so the two can differ by one for players on the finalist teams. Contenders: All-NBA or any MVP/DPOY vote in the prior season. High-minute non-stars: not a star in the season, and >= 28 minutes per game with >= 40 games played in the PRIOR season; none defined for 2014.

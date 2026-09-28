@@ -1,0 +1,517 @@
+season,athlete_id,athlete_name,post_rule,group,run_id,sat,length,start_game,end_game,start_player_game,end_player_game,games_with_row,first_reason,reason_class,q_at_start,slack_at_start,in_row_span,last_pg,censored,starts_before_first_row,start_bin,state_at_start
+2014,110,Kobe Bryant,FALSE,star,0,TRUE,19,1,19,1,19,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2014,110,Kobe Bryant,FALSE,star,2,TRUE,57,26,82,26,82,0,NA,no row (reason unknown),6,-2,FALSE,82,TRUE,FALSE,21-40,unreachable
+2014,2386,Andre Iguodala,FALSE,star,1,TRUE,12,14,25,14,25,10,LEFT HAMSTRING STRAIN,injury or illness,13,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2014,261,Kevin Garnett,FALSE,star,15,TRUE,19,57,75,57,75,5,BACK SPASMS,injury or illness,31,-8,TRUE,82,FALSE,FALSE,56-82,unreachable
+2014,2748,Andrew Bynum,FALSE,star,11,TRUE,16,66,81,41,56,0,NA,no row (reason unknown),16,-33,FALSE,56,TRUE,FALSE,56-82,unreachable
+2014,2779,Chris Paul,FALSE,star,3,TRUE,18,36,53,36,53,1,SEPARATED RIGHT SHOULDER,injury or illness,34,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2014,3026,Rajon Rondo,FALSE,star,0,TRUE,40,1,40,1,40,1,COACH'S DECISION,coach's decision,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2014,3206,Marc Gasol,FALSE,star,1,TRUE,23,14,36,14,36,0,NA,no row (reason unknown),12,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2014,3213,Al Horford,FALSE,star,1,TRUE,53,30,82,30,82,0,NA,no row (reason unknown),29,17,FALSE,82,TRUE,FALSE,21-40,reachable
+2014,3448,Brook Lopez,FALSE,star,5,TRUE,56,27,82,27,82,1,COACH'S DECISION,coach's decision,17,8,TRUE,82,TRUE,FALSE,21-40,reachable
+2014,3456,Derrick Rose,FALSE,star,3,TRUE,71,12,82,12,82,6,RIGHT KNEE REHAB,injury or illness,10,16,TRUE,82,TRUE,FALSE,games 1-20,reachable
+2014,3468,Russell Westbrook,FALSE,star,4,TRUE,27,29,55,29,55,0,NA,no row (reason unknown),25,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2014,3995,Jrue Holiday,FALSE,star,1,TRUE,48,35,82,35,82,15,BROKEN RIGHT LEG,injury or illness,34,17,TRUE,82,TRUE,FALSE,21-40,reachable
+2014,592,Steve Nash,FALSE,star,5,TRUE,39,9,47,9,47,5,BACK MUSCLE STRAIN,injury or illness,5,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2014,592,Steve Nash,FALSE,star,9,TRUE,15,53,67,53,67,7,NERVE ROOT IRRITATION,injury or illness,9,-26,TRUE,82,FALSE,FALSE,41-55,unreachable
+2014,984,Tyson Chandler,FALSE,star,1,TRUE,20,5,24,5,24,0,NA,no row (reason unknown),3,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,110,Kobe Bryant,FALSE,star,9,TRUE,39,44,82,44,82,31,ROTATOR CUFF,injury or illness,35,9,TRUE,82,TRUE,FALSE,41-55,reachable
+2015,165,Jamal Crawford,FALSE,high_minute_nonstar,3,TRUE,17,62,78,62,78,1,RIGHT CALF,injury or illness,57,13,TRUE,82,FALSE,FALSE,56-82,reachable
+2015,1708,Mike Dunleavy,FALSE,high_minute_nonstar,1,TRUE,19,34,52,34,52,0,NA,no row (reason unknown),33,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2015,1975,Carmelo Anthony,FALSE,star,13,TRUE,30,53,82,53,82,0,NA,no row (reason unknown),40,5,FALSE,82,TRUE,FALSE,41-55,reachable
+2015,1977,Chris Bosh,FALSE,star,3,TRUE,30,53,82,53,82,1,ILLNESS,injury or illness,44,9,TRUE,82,TRUE,FALSE,41-55,reachable
+2015,2177,David West,FALSE,high_minute_nonstar,0,TRUE,15,1,15,1,15,15,SPRAINED RIGHT ANKLE,injury or illness,0,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,2384,Dwight Howard,FALSE,star,3,TRUE,11,12,22,12,22,11,STRAINED RIGHT KNEE,injury or illness,10,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,2384,Dwight Howard,FALSE,star,5,TRUE,26,45,70,45,70,3,RIGHT ANKLE SPRAIN,injury or illness,31,4,TRUE,82,FALSE,FALSE,41-55,reachable
+2015,2394,Kevin Martin,FALSE,high_minute_nonstar,2,TRUE,34,11,44,11,44,8,FRACTURED RIGHT WRIST,injury or illness,9,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,2444,JR Smith,FALSE,high_minute_nonstar,5,TRUE,10,24,33,24,33,10,HEEL INJURY,injury or illness,19,13,TRUE,84,FALSE,FALSE,21-40,reachable
+2015,261,Kevin Garnett,FALSE,star,23,TRUE,21,62,82,59,79,20,COACH'S DECISION,coach's decision,26,-18,TRUE,79,TRUE,FALSE,56-82,unreachable
+2015,2753,Raymond Felton,FALSE,high_minute_nonstar,0,TRUE,31,1,31,1,31,4,SUSPENDED BY LEAGUE,other,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,2772,David Lee,FALSE,star,2,TRUE,21,5,25,5,25,0,NA,no row (reason unknown),0,13,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,2798,Deron Williams,FALSE,star,5,TRUE,11,36,46,36,46,0,NA,no row (reason unknown),30,12,TRUE,82,FALSE,FALSE,21-40,reachable
+2015,2806,Jose Calderon,FALSE,high_minute_nonstar,0,TRUE,13,1,13,1,13,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,2806,Jose Calderon,FALSE,high_minute_nonstar,4,TRUE,26,57,82,57,82,2,SORE LEFT ACHILLES TENDON,injury or illness,42,3,TRUE,82,TRUE,FALSE,56-82,reachable
+2015,2987,Andrea Bargnani,FALSE,high_minute_nonstar,0,TRUE,33,1,33,1,33,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,2987,Andrea Bargnani,FALSE,high_minute_nonstar,2,TRUE,16,36,51,36,51,4,STRAINED RIGHT CALF,injury or illness,1,-17,TRUE,82,FALSE,FALSE,21-40,unreachable
+2015,3003,Randy Foye,FALSE,high_minute_nonstar,3,TRUE,26,14,39,14,39,1,COACH'S DECISION,coach's decision,6,10,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,3202,Kevin Durant,FALSE,star,0,TRUE,17,1,17,1,17,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,3202,Kevin Durant,FALSE,star,8,TRUE,28,55,82,55,82,0,NA,no row (reason unknown),27,-10,FALSE,82,TRUE,FALSE,41-55,unreachable
+2015,3220,Josh McRoberts,FALSE,high_minute_nonstar,4,TRUE,61,22,82,22,82,4,RIGHT KNEE CONTUSION,injury or illness,10,6,TRUE,82,TRUE,FALSE,21-40,reachable
+2015,3243,Nick Young,FALSE,high_minute_nonstar,0,TRUE,10,1,10,1,10,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,3243,Nick Young,FALSE,high_minute_nonstar,4,TRUE,27,56,82,56,82,27,SORE LEFT KNEE,injury or illness,36,-2,TRUE,82,TRUE,FALSE,56-82,unreachable
+2015,3431,Eric Gordon,FALSE,high_minute_nonstar,1,TRUE,21,13,33,13,33,1,COACH'S DECISION,coach's decision,11,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,3438,George Hill,FALSE,high_minute_nonstar,0,TRUE,28,1,28,1,28,1,COACH'S DECISION,coach's decision,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,3438,George Hill,FALSE,high_minute_nonstar,2,TRUE,11,34,44,34,44,5,SORE LEFT GROIN,injury or illness,5,-11,TRUE,82,FALSE,FALSE,21-40,unreachable
+2015,3439,Serge Ibaka,FALSE,high_minute_nonstar,1,TRUE,18,65,82,65,82,0,NA,no row (reason unknown),64,17,FALSE,82,TRUE,FALSE,56-82,reachable
+2015,3447,Robin Lopez,FALSE,high_minute_nonstar,1,TRUE,23,26,48,26,48,0,NA,no row (reason unknown),25,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2015,3453,Nikola Pekovic,FALSE,high_minute_nonstar,1,TRUE,31,10,40,10,40,16,SPRAINED RIGHT WRIST,injury or illness,8,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,3453,Nikola Pekovic,FALSE,high_minute_nonstar,5,TRUE,19,64,82,64,82,4,COACH'S DECISION,coach's decision,28,-18,TRUE,82,TRUE,FALSE,56-82,unreachable
+2015,3456,Derrick Rose,FALSE,star,11,TRUE,20,58,77,58,77,0,NA,no row (reason unknown),45,5,TRUE,82,FALSE,FALSE,56-82,reachable
+2015,3468,Russell Westbrook,FALSE,star,1,TRUE,14,3,16,3,16,14,RIGHT HAND,injury or illness,1,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,3964,Patrick Beverley,FALSE,high_minute_nonstar,9,TRUE,12,71,82,71,82,0,NA,no row (reason unknown),56,3,FALSE,82,TRUE,FALSE,56-82,reachable
+2015,3978,DeMar DeRozan,FALSE,star,1,TRUE,21,17,37,17,37,0,NA,no row (reason unknown),16,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,3986,Taj Gibson,FALSE,high_minute_nonstar,9,TRUE,10,60,69,60,69,0,NA,no row (reason unknown),44,2,TRUE,82,FALSE,FALSE,56-82,reachable
+2015,3989,Blake Griffin,FALSE,star,1,TRUE,15,52,66,52,66,6,RIGHT ELBOW,injury or illness,51,17,TRUE,82,FALSE,FALSE,41-55,reachable
+2015,3995,Jrue Holiday,FALSE,star,1,TRUE,41,38,78,38,78,0,NA,no row (reason unknown),37,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2015,3997,Brandon Jennings,FALSE,high_minute_nonstar,3,TRUE,38,45,82,45,82,1,LEFT LEG INJURY,injury or illness,41,14,TRUE,82,TRUE,FALSE,41-55,reachable
+2015,4003,Jodie Meeks,FALSE,high_minute_nonstar,0,TRUE,22,1,22,1,22,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,4011,Ricky Rubio,FALSE,high_minute_nonstar,1,TRUE,42,6,47,6,47,3,SPRAINED LEFT ANKLE,injury or illness,4,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,4011,Ricky Rubio,FALSE,high_minute_nonstar,7,TRUE,15,68,82,68,82,15,SORE RIGHT ANKLE,injury or illness,21,-29,TRUE,82,TRUE,FALSE,56-82,unreachable
+2015,4032,Wesley Matthews,FALSE,high_minute_nonstar,1,TRUE,22,61,82,61,82,0,NA,no row (reason unknown),60,17,FALSE,82,TRUE,FALSE,56-82,reachable
+2015,4244,Lance Stephenson,FALSE,high_minute_nonstar,1,TRUE,14,26,39,26,39,7,PELVIC SPRAIN,injury or illness,25,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2015,4251,Paul George,FALSE,star,0,TRUE,76,1,76,1,76,2,COACH'S DECISION,coach's decision,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2015,4258,DeMarcus Cousins,FALSE,high_minute_nonstar,1,TRUE,10,16,25,16,25,0,NA,no row (reason unknown),15,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2015,4260,Greg Monroe,FALSE,high_minute_nonstar,2,TRUE,11,67,77,67,77,0,NA,no row (reason unknown),64,15,TRUE,82,FALSE,FALSE,56-82,reachable
+2015,510,Shawn Marion,FALSE,high_minute_nonstar,7,TRUE,13,56,68,56,68,3,COACH'S DECISION,coach's decision,29,-9,TRUE,82,FALSE,FALSE,56-82,unreachable
+2015,592,Steve Nash,FALSE,star,0,TRUE,82,1,82,1,82,1,COACH'S DECISION,coach's decision,0,17,FALSE,82,TRUE,TRUE,games 1-20,reachable
+2015,6429,Alec Burks,FALSE,high_minute_nonstar,3,TRUE,53,30,82,30,82,0,NA,no row (reason unknown),27,15,FALSE,82,TRUE,FALSE,21-40,reachable
+2015,6430,Jimmy Butler,FALSE,high_minute_nonstar,8,TRUE,11,61,71,61,71,1,STRAINED LEFT ELBOW,injury or illness,55,12,TRUE,82,FALSE,FALSE,56-82,reachable
+2015,6450,Kawhi Leonard,FALSE,high_minute_nonstar,4,TRUE,15,26,40,26,40,1,COACH'S DECISION,coach's decision,22,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2015,6479,Kemba Walker,FALSE,high_minute_nonstar,3,TRUE,18,45,62,45,62,0,NA,no row (reason unknown),42,15,TRUE,82,FALSE,FALSE,41-55,reachable
+2015,6607,Kendall Marshall,FALSE,high_minute_nonstar,14,TRUE,42,41,82,41,82,0,NA,no row (reason unknown),9,-14,FALSE,82,TRUE,FALSE,41-55,unreachable
+2016,1708,Mike Dunleavy,FALSE,high_minute_nonstar,0,TRUE,49,1,49,1,49,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2016,1977,Chris Bosh,FALSE,star,1,TRUE,29,54,82,54,82,0,NA,no row (reason unknown),53,17,FALSE,82,TRUE,FALSE,41-55,reachable
+2016,2178,Mo Williams,FALSE,high_minute_nonstar,15,TRUE,16,57,72,57,72,1,LEFT KNEE INJURY,injury or illness,20,-19,TRUE,82,FALSE,FALSE,56-82,unreachable
+2016,2389,Al Jefferson,FALSE,star,1,TRUE,11,18,28,18,28,5,SUSPENDED BY LEAGUE,other,16,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2016,2389,Al Jefferson,FALSE,star,3,TRUE,23,31,53,31,53,1,RIGHT KNEE SORENESS,injury or illness,18,5,TRUE,82,FALSE,FALSE,21-40,reachable
+2016,2578213,Ben McLemore,FALSE,high_minute_nonstar,5,TRUE,10,63,72,63,72,9,FINGER INJURY,injury or illness,33,-12,TRUE,82,FALSE,FALSE,56-82,unreachable
+2016,2596108,Michael Carter-Williams,FALSE,high_minute_nonstar,3,TRUE,23,60,82,60,82,14,LEFT KNEE,injury or illness,54,12,TRUE,82,TRUE,FALSE,56-82,reachable
+2016,261,Kevin Garnett,FALSE,star,15,TRUE,37,46,82,46,82,0,NA,no row (reason unknown),7,-21,FALSE,82,TRUE,FALSE,41-55,unreachable
+2016,2768,Jarrett Jack,FALSE,high_minute_nonstar,2,TRUE,49,34,82,34,82,0,NA,no row (reason unknown),32,16,FALSE,82,TRUE,FALSE,21-40,reachable
+2016,2772,David Lee,FALSE,star,7,TRUE,18,38,55,38,55,18,COACH'S DECISION,coach's decision,8,-12,TRUE,80,FALSE,FALSE,21-40,unreachable
+2016,3195,Mike Conley,FALSE,high_minute_nonstar,3,TRUE,20,63,82,63,82,3,SORE LEFT FOOT,injury or illness,56,11,TRUE,82,TRUE,FALSE,56-82,reachable
+2016,3206,Marc Gasol,FALSE,star,1,TRUE,30,53,82,53,82,0,NA,no row (reason unknown),51,16,FALSE,82,TRUE,FALSE,41-55,reachable
+2016,3224,Joakim Noah,FALSE,star,5,TRUE,43,40,82,40,82,0,NA,no row (reason unknown),21,-1,FALSE,82,TRUE,FALSE,21-40,unreachable
+2016,3419,Mario Chalmers,FALSE,high_minute_nonstar,3,TRUE,18,65,82,63,80,0,NA,no row (reason unknown),42,-5,FALSE,80,TRUE,FALSE,56-82,unreachable
+2016,3431,Eric Gordon,FALSE,high_minute_nonstar,1,TRUE,16,42,57,42,57,4,BROKEN FINGER,injury or illness,41,17,TRUE,82,FALSE,FALSE,41-55,reachable
+2016,3431,Eric Gordon,FALSE,high_minute_nonstar,3,TRUE,21,62,82,62,82,5,FRACTURED RIGHT FINGER,injury or illness,44,0,TRUE,82,TRUE,FALSE,56-82,reachable
+2016,3970,DeMarre Carroll,FALSE,high_minute_nonstar,5,TRUE,42,36,77,36,77,4,RIGHT KNEE SURGERY,injury or illness,23,5,TRUE,82,FALSE,FALSE,21-40,reachable
+2016,3983,Tyreke Evans,FALSE,high_minute_nonstar,0,TRUE,17,1,17,1,17,3,COACH'S DECISION,coach's decision,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2016,3983,Tyreke Evans,FALSE,high_minute_nonstar,6,TRUE,38,45,82,45,82,9,RIGHT KNEE INJURY,injury or illness,24,-3,TRUE,82,TRUE,FALSE,41-55,unreachable
+2016,3989,Blake Griffin,FALSE,star,1,TRUE,45,31,75,31,75,1,SUSPENDED BY LEAGUE,other,30,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2016,3997,Brandon Jennings,FALSE,high_minute_nonstar,0,TRUE,31,1,31,1,31,3,COACH'S DECISION,coach's decision,0,17,FALSE,84,FALSE,TRUE,games 1-20,reachable
+2016,4238,Eric Bledsoe,FALSE,high_minute_nonstar,3,TRUE,50,33,82,33,82,0,NA,no row (reason unknown),30,15,FALSE,82,TRUE,FALSE,21-40,reachable
+2016,4257,Derrick Favors,FALSE,high_minute_nonstar,3,TRUE,16,28,43,28,43,16,BACK SPASMS,injury or illness,26,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2016,6430,Jimmy Butler,FALSE,star,3,TRUE,11,50,60,50,60,11,LEFT KNEE,injury or illness,48,16,TRUE,82,FALSE,FALSE,41-55,reachable
+2016,6442,Kyrie Irving,FALSE,star,0,TRUE,24,1,24,1,24,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2016,6448,Brandon Knight,FALSE,high_minute_nonstar,3,TRUE,21,44,64,44,64,16,STRAINED LEFT HIP,injury or illness,42,16,TRUE,82,FALSE,FALSE,41-55,reachable
+2016,6464,Donatas Motiejunas,FALSE,high_minute_nonstar,0,TRUE,20,1,20,1,20,1,COACH'S DECISION,coach's decision,0,17,FALSE,93,FALSE,TRUE,games 1-20,reachable
+2016,6464,Donatas Motiejunas,FALSE,high_minute_nonstar,2,TRUE,27,35,58,35,61,8,SORE BACK,injury or illness,6,-11,TRUE,93,FALSE,FALSE,21-40,unreachable
+2016,6466,Chandler Parsons,FALSE,high_minute_nonstar,14,TRUE,13,70,82,70,82,0,NA,no row (reason unknown),57,5,FALSE,82,TRUE,FALSE,56-82,reachable
+2016,6478,Nikola Vucevic,FALSE,high_minute_nonstar,3,TRUE,13,62,74,62,74,0,NA,no row (reason unknown),57,13,TRUE,82,FALSE,FALSE,56-82,reachable
+2016,6578,Harrison Barnes,FALSE,high_minute_nonstar,1,TRUE,16,18,33,18,33,1,SPRAINED LEFT ANKLE,injury or illness,17,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2016,6580,Bradley Beal,FALSE,high_minute_nonstar,3,TRUE,16,21,36,21,36,1,COACH'S DECISION,coach's decision,17,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2016,6583,Anthony Davis,FALSE,star,11,TRUE,14,69,82,69,82,5,LEFT KNEE,injury or illness,58,7,TRUE,82,TRUE,FALSE,56-82,reachable
+2016,6601,Michael Kidd-Gilchrist,FALSE,high_minute_nonstar,0,TRUE,46,1,46,1,46,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2016,6601,Michael Kidd-Gilchrist,FALSE,high_minute_nonstar,2,TRUE,29,54,82,54,82,0,NA,no row (reason unknown),7,-29,FALSE,82,TRUE,FALSE,41-55,unreachable
+2017,1987,Dwyane Wade,FALSE,star,17,TRUE,11,69,79,69,79,0,NA,no row (reason unknown),57,6,TRUE,82,FALSE,FALSE,56-82,reachable
+2017,2429,Luol Deng,FALSE,high_minute_nonstar,7,TRUE,22,61,82,61,82,6,COACH'S DECISION,coach's decision,50,7,TRUE,82,TRUE,FALSE,56-82,reachable
+2017,2444,JR Smith,FALSE,high_minute_nonstar,5,TRUE,36,27,62,27,62,9,FRACTURED RIGHT THUMB,injury or illness,20,11,TRUE,82,FALSE,FALSE,21-40,reachable
+2017,2596108,Michael Carter-Williams,FALSE,high_minute_nonstar,1,TRUE,27,4,30,4,30,0,NA,no row (reason unknown),2,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,2779,Chris Paul,FALSE,star,5,TRUE,14,44,57,44,57,3,THUMB INJURY,injury or illness,35,9,TRUE,82,FALSE,FALSE,41-55,reachable
+2017,2806,Jose Calderon,FALSE,high_minute_nonstar,10,TRUE,17,23,39,23,39,7,COACH'S DECISION,coach's decision,5,0,TRUE,80,FALSE,FALSE,21-40,reachable
+2017,2991280,Nerlens Noel,FALSE,high_minute_nonstar,0,TRUE,23,1,23,1,23,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2017,2999547,Gary Harris,FALSE,high_minute_nonstar,2,TRUE,16,10,25,10,25,2,RIGHT ANKLE SPRAIN,injury or illness,5,13,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,3005,Rudy Gay,FALSE,high_minute_nonstar,7,TRUE,41,42,82,42,82,3,COACH'S DECISION,coach's decision,29,5,TRUE,82,TRUE,FALSE,41-55,reachable
+2017,3012,Kyle Lowry,FALSE,star,3,TRUE,21,58,78,58,78,0,NA,no row (reason unknown),56,16,TRUE,82,FALSE,FALSE,56-82,reachable
+2017,3056600,Jabari Parker,FALSE,high_minute_nonstar,1,TRUE,31,52,82,52,82,0,NA,no row (reason unknown),51,17,FALSE,82,TRUE,FALSE,41-55,reachable
+2017,3135047,Justise Winslow,FALSE,high_minute_nonstar,1,TRUE,16,10,25,10,25,16,SORE LEFT WRIST,injury or illness,9,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,3135047,Justise Winslow,FALSE,high_minute_nonstar,3,TRUE,48,35,82,35,82,7,RIGHT SHOULDER,injury or illness,18,1,TRUE,82,TRUE,FALSE,21-40,reachable
+2017,3135048,Jahlil Okafor,FALSE,high_minute_nonstar,21,TRUE,11,72,82,72,82,11,RIGHT KNEE SORENESS,injury or illness,43,-11,TRUE,82,TRUE,FALSE,56-82,unreachable
+2017,3136776,D'Angelo Russell,FALSE,high_minute_nonstar,3,TRUE,11,15,25,15,25,0,NA,no row (reason unknown),13,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,3202,Kevin Durant,FALSE,star,3,TRUE,19,61,79,61,79,0,NA,no row (reason unknown),58,15,TRUE,82,FALSE,FALSE,56-82,reachable
+2017,3209,Jeff Green,FALSE,high_minute_nonstar,5,TRUE,11,72,82,72,82,0,NA,no row (reason unknown),49,-5,FALSE,82,TRUE,FALSE,56-82,unreachable
+2017,3224,Joakim Noah,FALSE,star,7,TRUE,30,52,81,52,81,7,SUSPENDED BY LEAGUE,other,30,-5,TRUE,81,TRUE,FALSE,41-55,unreachable
+2017,3417,Jerryd Bayless,FALSE,high_minute_nonstar,0,TRUE,13,1,13,1,13,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2017,3417,Jerryd Bayless,FALSE,high_minute_nonstar,2,TRUE,66,17,82,17,82,11,LEFT WRIST INJURY,injury or illness,3,4,TRUE,82,TRUE,FALSE,games 1-20,reachable
+2017,3436,Roy Hibbert,FALSE,star,11,TRUE,11,68,78,61,71,10,COACH'S DECISION,coach's decision,8,-42,TRUE,75,FALSE,FALSE,56-82,unreachable
+2017,3438,George Hill,FALSE,high_minute_nonstar,3,TRUE,13,20,32,20,32,8,SPRAINED LEFT BIG TOE,injury or illness,11,9,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,3449,Kevin Love,FALSE,star,11,TRUE,13,54,66,54,66,0,NA,no row (reason unknown),45,9,TRUE,82,FALSE,FALSE,41-55,reachable
+2017,3964,Patrick Beverley,FALSE,high_minute_nonstar,0,TRUE,11,1,11,1,11,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2017,3989,Blake Griffin,FALSE,star,5,TRUE,18,29,46,29,46,0,NA,no row (reason unknown),26,15,TRUE,82,FALSE,FALSE,21-40,reachable
+2017,3995,Jrue Holiday,FALSE,high_minute_nonstar,0,TRUE,12,1,12,1,12,11,NA,injury or illness,0,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,4239,Evan Turner,FALSE,high_minute_nonstar,3,TRUE,14,54,67,54,67,2,RIGHT HAND,injury or illness,50,14,TRUE,82,FALSE,FALSE,41-55,reachable
+2017,4240,Avery Bradley,FALSE,high_minute_nonstar,5,TRUE,18,42,59,42,59,1,SORE RIGHT ACHILLES TENDON,injury or illness,36,12,TRUE,82,FALSE,FALSE,41-55,reachable
+2017,4248,Al-Farouq Aminu,FALSE,high_minute_nonstar,1,TRUE,13,9,21,9,21,0,NA,no row (reason unknown),7,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,4257,Derrick Favors,FALSE,high_minute_nonstar,2,TRUE,13,13,25,13,25,0,NA,no row (reason unknown),10,15,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,4257,Derrick Favors,FALSE,high_minute_nonstar,8,TRUE,14,65,78,65,78,0,NA,no row (reason unknown),40,-7,TRUE,82,FALSE,FALSE,56-82,unreachable
+2017,609,Dirk Nowitzki,FALSE,star,5,TRUE,14,16,29,16,29,1,RIGHT ACHILLES STRAIN,injury or illness,5,7,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,6443,Reggie Jackson,FALSE,high_minute_nonstar,0,TRUE,21,1,21,1,21,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2017,6448,Brandon Knight,FALSE,high_minute_nonstar,5,TRUE,25,58,82,58,82,24,COACH'S DECISION,coach's decision,37,-3,TRUE,82,TRUE,FALSE,56-82,unreachable
+2017,6466,Chandler Parsons,FALSE,high_minute_nonstar,2,TRUE,18,13,30,13,30,3,LEFT KNEE,injury or illness,5,10,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2017,6466,Chandler Parsons,FALSE,high_minute_nonstar,20,TRUE,16,67,82,67,82,5,LEFT KNEE,injury or illness,21,-28,TRUE,82,TRUE,FALSE,56-82,unreachable
+2017,6609,Khris Middleton,FALSE,high_minute_nonstar,0,TRUE,50,1,50,1,50,1,COACH'S DECISION,coach's decision,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2017,6634,Hollis Thompson,FALSE,high_minute_nonstar,5,TRUE,16,67,82,43,58,1,COACH'S DECISION,coach's decision,23,-26,TRUE,58,TRUE,FALSE,56-82,unreachable
+2017,996,Pau Gasol,FALSE,star,5,TRUE,15,42,56,42,56,1,BROKEN LEFT HAND,injury or illness,36,12,TRUE,82,FALSE,FALSE,41-55,reachable
+2018,2326307,Seth Curry,FALSE,high_minute_nonstar,0,TRUE,82,1,82,1,82,1,COACH'S DECISION,coach's decision,0,17,FALSE,82,TRUE,TRUE,games 1-20,reachable
+2018,2488958,Solomon Hill,FALSE,high_minute_nonstar,0,TRUE,69,1,69,1,69,1,LEFT HAMSTRING TEAR,injury or illness,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2018,2530596,Andre Roberson,FALSE,high_minute_nonstar,5,TRUE,33,50,82,50,82,0,NA,no row (reason unknown),36,4,FALSE,82,TRUE,FALSE,41-55,reachable
+2018,2779,Chris Paul,FALSE,star,1,TRUE,14,2,15,2,15,3,COACH'S DECISION,coach's decision,1,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2018,2982334,T.J. Warren,FALSE,high_minute_nonstar,9,TRUE,11,72,82,72,82,0,NA,no row (reason unknown),64,10,FALSE,82,TRUE,FALSE,56-82,reachable
+2018,2990992,Marcus Smart,FALSE,high_minute_nonstar,3,TRUE,11,48,58,48,58,1,RIGHT HAND,injury or illness,45,14,TRUE,81,FALSE,FALSE,41-55,reachable
+2018,2990992,Marcus Smart,FALSE,high_minute_nonstar,5,TRUE,15,67,81,67,81,0,NA,no row (reason unknown),53,3,FALSE,81,TRUE,FALSE,56-82,reachable
+2018,2999547,Gary Harris,FALSE,high_minute_nonstar,7,TRUE,11,70,80,70,80,0,NA,no row (reason unknown),65,13,TRUE,82,FALSE,FALSE,56-82,secured
+2018,3015,Paul Millsap,FALSE,star,1,TRUE,44,17,60,17,60,0,NA,no row (reason unknown),15,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2018,3032976,Rudy Gobert,FALSE,star,1,TRUE,11,13,23,13,23,1,RIGHT KNEE CONTUSION,injury or illness,12,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2018,3032976,Rudy Gobert,FALSE,star,3,TRUE,15,30,44,30,44,8,SPRAINED LEFT PCL,injury or illness,17,5,TRUE,82,FALSE,FALSE,21-40,reachable
+2018,3056600,Jabari Parker,FALSE,high_minute_nonstar,0,TRUE,50,1,50,1,50,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2018,3064440,Zach LaVine,FALSE,high_minute_nonstar,0,TRUE,42,1,42,1,42,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2018,3064440,Zach LaVine,FALSE,high_minute_nonstar,6,TRUE,14,69,82,69,82,0,NA,no row (reason unknown),24,-27,FALSE,82,TRUE,FALSE,56-82,unreachable
+2018,3102531,Kristaps Porzingis,FALSE,high_minute_nonstar,11,TRUE,27,56,82,56,82,0,NA,no row (reason unknown),46,8,FALSE,82,TRUE,FALSE,56-82,reachable
+2018,3136193,Devin Booker,FALSE,high_minute_nonstar,11,TRUE,12,71,82,71,82,11,RIGHT HAND,injury or illness,54,1,TRUE,82,TRUE,FALSE,56-82,reachable
+2018,3136776,D'Angelo Russell,FALSE,high_minute_nonstar,3,TRUE,31,14,44,14,44,0,NA,no row (reason unknown),12,15,TRUE,81,FALSE,FALSE,games 1-20,reachable
+2018,3195,Mike Conley,FALSE,high_minute_nonstar,3,TRUE,69,14,82,14,82,0,NA,no row (reason unknown),12,16,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2018,3416,Nicolas Batum,FALSE,high_minute_nonstar,0,TRUE,12,1,12,1,12,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2018,3428,Danilo Gallinari,FALSE,high_minute_nonstar,1,TRUE,13,10,22,10,22,10,STRAINED LEFT GLUTE,injury or illness,8,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2018,3428,Danilo Gallinari,FALSE,high_minute_nonstar,3,TRUE,25,25,49,25,49,2,BRUISED GLUTEUS MAXIMUS,injury or illness,10,3,TRUE,82,FALSE,FALSE,21-40,reachable
+2018,3428,Danilo Gallinari,FALSE,high_minute_nonstar,5,TRUE,18,58,75,58,75,7,RIGHT HAND,injury or illness,18,-22,TRUE,82,FALSE,FALSE,56-82,unreachable
+2018,3449,Kevin Love,FALSE,high_minute_nonstar,3,TRUE,20,50,69,50,69,1,LEFT HAND,injury or illness,46,14,TRUE,82,FALSE,FALSE,41-55,reachable
+2018,3456,Derrick Rose,FALSE,high_minute_nonstar,3,TRUE,32,12,43,12,43,0,NA,no row (reason unknown),7,13,TRUE,69,FALSE,FALSE,games 1-20,reachable
+2018,3913176,Brandon Ingram,FALSE,high_minute_nonstar,7,TRUE,12,62,73,62,73,2,LEFT GROIN STRAIN,injury or illness,56,12,TRUE,82,FALSE,FALSE,56-82,reachable
+2018,3964,Patrick Beverley,FALSE,high_minute_nonstar,3,TRUE,66,17,82,17,82,0,NA,no row (reason unknown),11,12,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2018,3973,Darren Collison,FALSE,high_minute_nonstar,5,TRUE,11,55,65,55,65,0,NA,no row (reason unknown),52,15,TRUE,82,FALSE,FALSE,41-55,reachable
+2018,3975,Stephen Curry,FALSE,star,5,TRUE,11,26,36,26,36,0,NA,no row (reason unknown),23,15,TRUE,82,FALSE,FALSE,21-40,reachable
+2018,3975,Stephen Curry,FALSE,star,11,TRUE,10,73,82,73,82,0,NA,no row (reason unknown),50,-5,FALSE,82,TRUE,FALSE,56-82,unreachable
+2018,3989,Blake Griffin,FALSE,star,1,TRUE,14,20,33,20,33,1,SPRAINED LEFT MCL,injury or illness,19,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2018,4032,Wesley Matthews,FALSE,high_minute_nonstar,5,TRUE,16,67,82,67,82,1,RIGHT LEG SURGERY,injury or illness,63,14,TRUE,82,TRUE,FALSE,56-82,reachable
+2018,4237,John Wall,FALSE,star,7,TRUE,27,49,75,49,75,1,LEFT KNEE INJURY,injury or illness,37,6,TRUE,82,FALSE,FALSE,41-55,reachable
+2018,4240,Avery Bradley,FALSE,high_minute_nonstar,5,TRUE,26,57,82,55,80,6,GROIN,injury or illness,46,7,TRUE,80,TRUE,FALSE,56-82,reachable
+2018,4248,Al-Farouq Aminu,FALSE,high_minute_nonstar,1,TRUE,13,9,21,9,21,0,NA,no row (reason unknown),8,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2018,4249,Gordon Hayward,FALSE,star,1,TRUE,80,2,81,2,81,0,NA,no row (reason unknown),0,15,FALSE,81,TRUE,FALSE,games 1-20,reachable
+2018,4258,DeMarcus Cousins,FALSE,star,1,TRUE,34,49,82,49,82,1,RUPTURED LEFT ACHILLES TENDON,injury or illness,48,17,TRUE,82,TRUE,FALSE,41-55,reachable
+2018,4262,Hassan Whiteside,FALSE,high_minute_nonstar,3,TRUE,13,21,33,21,33,10,COACH'S DECISION,coach's decision,15,12,TRUE,82,FALSE,FALSE,21-40,reachable
+2018,6430,Jimmy Butler,FALSE,star,5,TRUE,17,63,79,63,79,2,RIGHT KNEE INJURY,injury or illness,56,11,TRUE,82,FALSE,FALSE,56-82,reachable
+2018,6442,Kyrie Irving,FALSE,star,11,TRUE,15,67,81,67,81,1,LEFT KNEE INJURY,injury or illness,58,8,TRUE,81,TRUE,FALSE,56-82,reachable
+2018,6450,Kawhi Leonard,FALSE,star,0,TRUE,27,1,27,1,27,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2018,6450,Kawhi Leonard,FALSE,star,14,TRUE,38,45,82,45,82,1,REST,rest,8,-19,TRUE,82,TRUE,FALSE,41-55,unreachable
+2018,6472,Isaiah Thomas,FALSE,star,0,TRUE,36,1,36,1,36,4,COACH'S DECISION,coach's decision,0,17,FALSE,81,FALSE,TRUE,games 1-20,reachable
+2018,6472,Isaiah Thomas,FALSE,star,6,TRUE,11,72,82,71,81,1,SORE RIGHT HIP,injury or illness,31,-23,TRUE,81,TRUE,FALSE,56-82,unreachable
+2018,6474,Tristan Thompson,FALSE,high_minute_nonstar,1,TRUE,19,9,27,9,27,0,NA,no row (reason unknown),8,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2018,6478,Nikola Vucevic,FALSE,high_minute_nonstar,1,TRUE,23,35,57,35,57,0,NA,no row (reason unknown),33,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2018,6588,Evan Fournier,FALSE,high_minute_nonstar,3,TRUE,17,66,82,66,82,0,NA,no row (reason unknown),57,9,FALSE,82,TRUE,FALSE,56-82,reachable
+2018,6628,Dion Waiters,FALSE,high_minute_nonstar,3,TRUE,50,33,82,33,82,1,LEFT ANKLE,injury or illness,29,14,TRUE,82,TRUE,FALSE,21-40,reachable
+2019,1966,LeBron James,FALSE,star,1,TRUE,17,35,51,35,51,0,NA,no row (reason unknown),34,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2019,1975,Carmelo Anthony,FALSE,star,1,TRUE,72,11,82,11,82,1,ILLNESS,injury or illness,10,17,TRUE,82,TRUE,FALSE,games 1-20,reachable
+2019,2384,Dwight Howard,FALSE,high_minute_nonstar,2,TRUE,66,17,82,17,82,1,SORENESS,injury or illness,8,9,TRUE,82,TRUE,FALSE,games 1-20,reachable
+2019,2444,JR Smith,FALSE,high_minute_nonstar,6,TRUE,67,16,82,16,82,0,NA,no row (reason unknown),8,10,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2019,2490149,CJ McCollum,FALSE,high_minute_nonstar,3,TRUE,10,70,79,70,79,0,NA,no row (reason unknown),68,16,TRUE,82,FALSE,FALSE,56-82,secured
+2019,2490620,Robert Covington,FALSE,high_minute_nonstar,3,TRUE,45,38,82,37,81,0,NA,no row (reason unknown),35,15,FALSE,81,TRUE,FALSE,21-40,reachable
+2019,2527963,Victor Oladipo,FALSE,star,1,TRUE,11,17,27,17,27,0,NA,no row (reason unknown),15,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,2527963,Victor Oladipo,FALSE,star,3,TRUE,35,48,82,48,82,0,NA,no row (reason unknown),34,4,FALSE,82,TRUE,FALSE,41-55,reachable
+2019,2528210,Tim Hardaway Jr.,FALSE,high_minute_nonstar,9,TRUE,11,72,82,69,79,0,NA,no row (reason unknown),64,10,FALSE,79,TRUE,FALSE,56-82,reachable
+2019,2530276,Tyler Johnson,FALSE,high_minute_nonstar,7,TRUE,13,70,82,66,78,3,COACH'S DECISION,coach's decision,52,0,TRUE,78,TRUE,FALSE,56-82,reachable
+2019,2531210,Allen Crabbe,FALSE,high_minute_nonstar,2,TRUE,26,30,55,30,55,0,NA,no row (reason unknown),28,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2019,2531210,Allen Crabbe,FALSE,high_minute_nonstar,4,TRUE,12,71,82,71,82,0,NA,no row (reason unknown),42,-11,FALSE,82,TRUE,FALSE,56-82,unreachable
+2019,2566769,Malcolm Brogdon,FALSE,high_minute_nonstar,9,TRUE,13,70,82,70,82,0,NA,no row (reason unknown),63,11,FALSE,82,TRUE,FALSE,56-82,reachable
+2019,2580782,Spencer Dinwiddie,FALSE,high_minute_nonstar,1,TRUE,14,50,63,50,63,1,RIGHT THUMB INJURY,injury or illness,49,17,TRUE,82,FALSE,FALSE,41-55,reachable
+2019,2583639,Elfrid Payton,FALSE,high_minute_nonstar,3,TRUE,22,16,37,16,37,0,NA,no row (reason unknown),5,7,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,2594922,Otto Porter Jr.,FALSE,high_minute_nonstar,5,TRUE,10,28,37,28,37,0,NA,no row (reason unknown),24,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2019,2594922,Otto Porter Jr.,FALSE,high_minute_nonstar,13,TRUE,11,72,82,72,82,0,NA,no row (reason unknown),52,-2,FALSE,82,TRUE,FALSE,56-82,unreachable
+2019,2779,Chris Paul,FALSE,star,5,TRUE,17,32,48,32,48,1,HAMSTRING,injury or illness,25,11,TRUE,82,FALSE,FALSE,21-40,reachable
+2019,2982334,T.J. Warren,FALSE,high_minute_nonstar,5,TRUE,33,50,82,50,82,1,RIGHT ANKLE SORENESS,injury or illness,40,8,TRUE,82,TRUE,FALSE,41-55,reachable
+2019,2990962,Taurean Prince,FALSE,high_minute_nonstar,5,TRUE,18,25,42,25,42,0,NA,no row (reason unknown),21,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2019,2991139,Kris Dunn,FALSE,high_minute_nonstar,2,TRUE,24,4,27,4,27,0,NA,no row (reason unknown),1,15,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,2999547,Gary Harris,FALSE,high_minute_nonstar,3,TRUE,11,24,34,24,34,0,NA,no row (reason unknown),20,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2019,3155526,Dillon Brooks,FALSE,high_minute_nonstar,1,TRUE,21,12,32,12,32,1,LEFT KNEE SPRAIN,injury or illness,8,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,3155526,Dillon Brooks,FALSE,high_minute_nonstar,3,TRUE,43,40,82,40,82,1,RIGHT TOE,injury or illness,9,-13,TRUE,82,TRUE,FALSE,21-40,unreachable
+2019,3423,Goran Dragic,FALSE,star,9,TRUE,31,27,57,27,57,1,RIGHT KNEE INJURY,injury or illness,14,5,TRUE,82,FALSE,FALSE,21-40,reachable
+2019,3445,Courtney Lee,FALSE,high_minute_nonstar,0,TRUE,23,1,23,1,23,2,COACH'S DECISION,coach's decision,0,16,TRUE,79,FALSE,FALSE,games 1-20,reachable
+2019,3445,Courtney Lee,FALSE,high_minute_nonstar,6,TRUE,10,36,45,36,45,10,COACH'S DECISION,coach's decision,5,-14,TRUE,79,FALSE,FALSE,21-40,unreachable
+2019,3449,Kevin Love,FALSE,high_minute_nonstar,1,TRUE,50,5,54,5,54,0,NA,no row (reason unknown),4,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,3913176,Brandon Ingram,FALSE,high_minute_nonstar,5,TRUE,19,64,82,64,82,2,RIGHT SHOULDER,injury or illness,51,5,TRUE,82,TRUE,FALSE,56-82,reachable
+2019,3970,DeMarre Carroll,FALSE,high_minute_nonstar,0,TRUE,11,1,11,1,11,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2019,3975,Stephen Curry,FALSE,star,1,TRUE,11,13,23,13,23,0,NA,no row (reason unknown),12,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,3986,Taj Gibson,FALSE,high_minute_nonstar,3,TRUE,11,72,82,72,82,7,LEFT CALF STRAIN,injury or illness,59,5,TRUE,82,TRUE,FALSE,56-82,reachable
+2019,3995,Jrue Holiday,FALSE,high_minute_nonstar,1,TRUE,15,68,82,68,82,0,NA,no row (reason unknown),67,17,FALSE,82,TRUE,FALSE,56-82,secured
+2019,4015,Jeff Teague,FALSE,high_minute_nonstar,9,TRUE,15,68,82,68,82,0,NA,no row (reason unknown),42,-8,FALSE,82,TRUE,FALSE,56-82,unreachable
+2019,4066336,Lauri Markkanen,FALSE,high_minute_nonstar,0,TRUE,23,1,23,1,23,5,SPRAINED RIGHT ELBOW,injury or illness,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2019,4066421,Lonzo Ball,FALSE,high_minute_nonstar,1,TRUE,35,48,82,48,82,0,NA,no row (reason unknown),46,16,FALSE,82,TRUE,FALSE,41-55,reachable
+2019,4237,John Wall,FALSE,star,7,TRUE,47,36,82,36,82,0,NA,no row (reason unknown),32,14,FALSE,82,TRUE,FALSE,21-40,reachable
+2019,4240,Avery Bradley,FALSE,high_minute_nonstar,3,TRUE,12,71,82,70,81,3,RIGHT SHIN CONTUSION,injury or illness,63,10,TRUE,81,TRUE,FALSE,56-82,reachable
+2019,4258,DeMarcus Cousins,FALSE,star,0,TRUE,45,1,45,1,45,1,LEFT ACHILLES REHAB,injury or illness,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2019,6460,E'Twaun Moore,FALSE,high_minute_nonstar,15,TRUE,15,68,82,68,82,1,LEFT QUAD CONTUSION,injury or illness,48,-2,TRUE,82,TRUE,FALSE,56-82,unreachable
+2019,6472,Isaiah Thomas,FALSE,star,0,TRUE,56,1,56,1,56,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2019,6579,Will Barton,FALSE,high_minute_nonstar,1,TRUE,38,3,40,3,40,0,NA,no row (reason unknown),2,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,6589,Draymond Green,FALSE,star,5,TRUE,11,17,27,17,27,0,NA,no row (reason unknown),12,13,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,996,Pau Gasol,FALSE,star,1,TRUE,28,10,37,10,37,3,LEFT FOOT,injury or illness,4,12,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2019,996,Pau Gasol,FALSE,star,15,TRUE,15,68,82,68,82,3,COACH'S DECISION,coach's decision,6,-44,TRUE,82,TRUE,FALSE,56-82,unreachable
+2022,2489663,Kelly Olynyk,FALSE,high_minute_nonstar,1,TRUE,33,11,43,11,43,5,LEFT KNEE SPRAIN,injury or illness,9,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2022,2490149,CJ McCollum,FALSE,high_minute_nonstar,1,TRUE,18,25,42,25,42,0,NA,no row (reason unknown),24,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2022,2528210,Tim Hardaway Jr.,FALSE,high_minute_nonstar,3,TRUE,34,49,82,49,82,0,NA,no row (reason unknown),41,10,FALSE,82,TRUE,FALSE,41-55,reachable
+2022,2528794,Joe Harris,FALSE,high_minute_nonstar,1,TRUE,68,15,82,15,82,0,NA,no row (reason unknown),13,16,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2022,2566769,Malcolm Brogdon,FALSE,high_minute_nonstar,11,TRUE,15,46,60,46,60,1,SORE RIGHT ACHILLES TENDON,injury or illness,27,-1,TRUE,82,FALSE,FALSE,41-55,unreachable
+2022,2566769,Malcolm Brogdon,FALSE,high_minute_nonstar,17,TRUE,11,72,82,72,82,7,REST,rest,35,-19,TRUE,82,TRUE,FALSE,56-82,unreachable
+2022,2595516,Norman Powell,FALSE,high_minute_nonstar,7,TRUE,22,58,79,56,77,0,NA,no row (reason unknown),42,2,TRUE,80,FALSE,FALSE,56-82,reachable
+2022,2779,Chris Paul,FALSE,star,1,TRUE,15,59,73,59,73,0,NA,no row (reason unknown),58,17,TRUE,82,FALSE,FALSE,56-82,reachable
+2022,2983,LaMarcus Aldridge,FALSE,star,13,TRUE,13,66,78,66,78,4,COACH'S DECISION,coach's decision,35,-13,TRUE,82,FALSE,FALSE,56-82,unreachable
+2022,2991070,Jerami Grant,FALSE,high_minute_nonstar,3,TRUE,24,26,49,26,49,1,RETURN TO COMPETITION RECONDITIONING,other,24,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2022,2993370,Richaun Holmes,FALSE,high_minute_nonstar,13,TRUE,11,72,82,72,82,0,NA,no row (reason unknown),34,-20,FALSE,82,TRUE,FALSE,56-82,unreachable
+2022,3056247,Kendrick Nunn,FALSE,high_minute_nonstar,0,TRUE,82,1,82,1,82,5,RIGHT KNEE BONE BRUISE,injury or illness,0,17,FALSE,82,TRUE,TRUE,games 1-20,reachable
+2022,3062679,Josh Hart,FALSE,high_minute_nonstar,17,TRUE,12,71,82,69,80,2,LEFT KNEE INFLAMMATION,injury or illness,53,0,TRUE,80,TRUE,FALSE,56-82,reachable
+2022,3133628,Myles Turner,FALSE,high_minute_nonstar,3,TRUE,39,44,82,44,82,0,NA,no row (reason unknown),40,14,FALSE,82,TRUE,FALSE,41-55,reachable
+2022,3134907,Kyle Kuzma,FALSE,high_minute_nonstar,5,TRUE,13,70,82,70,82,1,RIGHT KNEE TENDINITIS,injury or illness,66,14,TRUE,82,TRUE,FALSE,56-82,secured
+2022,3149673,Pascal Siakam,FALSE,star,0,TRUE,10,1,10,1,10,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2022,3155526,Dillon Brooks,FALSE,high_minute_nonstar,0,TRUE,10,1,10,1,10,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2022,3155526,Dillon Brooks,FALSE,high_minute_nonstar,10,TRUE,27,42,68,42,68,0,NA,no row (reason unknown),20,-4,TRUE,82,FALSE,FALSE,41-55,unreachable
+2022,3202,Kevin Durant,FALSE,star,9,TRUE,21,43,63,43,63,0,NA,no row (reason unknown),35,10,TRUE,82,FALSE,FALSE,41-55,reachable
+2022,3907387,Ben Simmons,FALSE,star,0,TRUE,82,1,82,1,82,1,NOT WITH TEAM,other,0,17,FALSE,82,TRUE,TRUE,games 1-20,reachable
+2022,3908845,John Collins,FALSE,high_minute_nonstar,5,TRUE,16,67,82,67,82,0,NA,no row (reason unknown),54,5,FALSE,82,TRUE,FALSE,56-82,reachable
+2022,3913176,Brandon Ingram,FALSE,star,7,TRUE,10,65,74,65,74,1,RIGHT HAMSTRING,injury or illness,49,2,TRUE,82,FALSE,FALSE,56-82,reachable
+2022,3934719,OG Anunoby,FALSE,high_minute_nonstar,1,TRUE,13,16,28,16,28,0,NA,no row (reason unknown),15,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2022,3934719,OG Anunoby,FALSE,high_minute_nonstar,5,TRUE,15,58,72,58,72,0,NA,no row (reason unknown),42,2,TRUE,82,FALSE,FALSE,56-82,reachable
+2022,3945274,Luka Doncic,FALSE,star,5,TRUE,10,26,35,26,35,0,NA,no row (reason unknown),21,13,TRUE,82,FALSE,FALSE,21-40,reachable
+2022,3975,Stephen Curry,FALSE,star,13,TRUE,12,71,82,71,82,0,NA,no row (reason unknown),63,10,FALSE,82,TRUE,FALSE,56-82,reachable
+2022,4066259,De'Aaron Fox,FALSE,high_minute_nonstar,5,TRUE,11,72,82,72,82,0,NA,no row (reason unknown),59,5,FALSE,82,TRUE,FALSE,56-82,reachable
+2022,4066261,Bam Adebayo,FALSE,star,5,TRUE,22,22,43,22,43,0,NA,no row (reason unknown),18,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2022,4066328,Jarrett Allen,FALSE,high_minute_nonstar,7,TRUE,18,65,82,65,82,0,NA,no row (reason unknown),55,8,FALSE,82,TRUE,FALSE,56-82,reachable
+2022,4066421,Lonzo Ball,FALSE,high_minute_nonstar,3,TRUE,42,41,82,41,82,1,LEFT KNEE,injury or illness,35,12,TRUE,82,TRUE,FALSE,41-55,reachable
+2022,4066648,Rui Hachimura,FALSE,high_minute_nonstar,0,TRUE,39,1,39,1,39,3,NOT WITH TEAM,other,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2022,4238,Eric Bledsoe,FALSE,high_minute_nonstar,1,TRUE,28,55,82,55,82,5,LEFT ACHILLES TENDON,injury or illness,43,6,TRUE,82,TRUE,FALSE,41-55,reachable
+2022,4249,Gordon Hayward,FALSE,high_minute_nonstar,5,TRUE,22,56,77,56,77,0,NA,no row (reason unknown),47,9,TRUE,82,FALSE,FALSE,56-82,reachable
+2022,4251,Paul George,FALSE,star,5,TRUE,43,33,75,33,75,0,NA,no row (reason unknown),26,11,TRUE,82,FALSE,FALSE,21-40,reachable
+2022,4277811,Collin Sexton,FALSE,high_minute_nonstar,1,TRUE,71,12,82,12,82,0,NA,no row (reason unknown),10,16,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2022,4278078,P.J. Washington,FALSE,high_minute_nonstar,3,TRUE,10,10,19,10,19,1,HYPEREXTENDED ELBOW,injury or illness,6,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2022,4278104,Michael Porter Jr.,FALSE,high_minute_nonstar,1,TRUE,73,10,82,10,82,0,NA,no row (reason unknown),8,16,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2022,4279888,Ja Morant,FALSE,high_minute_nonstar,1,TRUE,12,20,31,20,31,0,NA,no row (reason unknown),18,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2022,4395651,Coby White,FALSE,high_minute_nonstar,0,TRUE,13,1,13,1,13,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2022,4397020,Luguentz Dort,FALSE,high_minute_nonstar,9,TRUE,26,57,82,57,82,0,NA,no row (reason unknown),51,12,FALSE,82,TRUE,FALSE,56-82,reachable
+2022,6442,Kyrie Irving,FALSE,star,0,TRUE,35,1,35,1,35,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2022,6475,Klay Thompson,FALSE,star,0,TRUE,38,1,38,1,38,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2022,6479,Kemba Walker,FALSE,star,3,TRUE,10,20,29,20,29,9,COACH'S DECISION,coach's decision,16,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2022,6479,Kemba Walker,FALSE,star,11,TRUE,23,60,82,60,82,0,NA,no row (reason unknown),32,-10,FALSE,82,TRUE,FALSE,56-82,unreachable
+2022,6580,Bradley Beal,FALSE,star,9,TRUE,33,50,82,50,82,0,NA,no row (reason unknown),40,8,FALSE,82,TRUE,FALSE,41-55,reachable
+2022,6583,Anthony Davis,FALSE,star,5,TRUE,17,31,47,31,47,1,"MCL SPRAIN, LEFT KNEE",injury or illness,26,13,TRUE,82,FALSE,FALSE,21-40,reachable
+2022,6583,Anthony Davis,FALSE,star,9,TRUE,18,59,76,59,76,0,NA,no row (reason unknown),36,-5,TRUE,82,FALSE,FALSE,56-82,unreachable
+2022,6589,Draymond Green,FALSE,high_minute_nonstar,7,TRUE,31,38,68,38,68,1,COACH'S DECISION,coach's decision,33,13,TRUE,82,FALSE,FALSE,21-40,reachable
+2022,6606,Damian Lillard,FALSE,star,5,TRUE,47,36,82,36,82,0,NA,no row (reason unknown),29,11,FALSE,82,TRUE,FALSE,21-40,reachable
+2023,1966,LeBron James,FALSE,star,17,TRUE,13,62,74,62,74,0,NA,no row (reason unknown),47,3,TRUE,82,FALSE,FALSE,56-82,reachable
+2023,2578185,Dorian Finney-Smith,FALSE,high_minute_nonstar,1,TRUE,14,32,45,32,45,0,NA,no row (reason unknown),31,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,2595516,Norman Powell,FALSE,high_minute_nonstar,1,TRUE,10,23,32,23,32,0,NA,no row (reason unknown),22,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,2595516,Norman Powell,FALSE,high_minute_nonstar,5,TRUE,11,66,76,66,76,0,NA,no row (reason unknown),52,4,TRUE,82,FALSE,FALSE,56-82,reachable
+2023,2779,Chris Paul,FALSE,star,1,TRUE,14,11,24,11,24,8,RIGHT HEEL,injury or illness,9,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,2990992,Marcus Smart,FALSE,high_minute_nonstar,9,TRUE,11,48,58,48,58,0,NA,no row (reason unknown),41,11,TRUE,82,FALSE,FALSE,41-55,reachable
+2023,2991070,Jerami Grant,FALSE,high_minute_nonstar,7,TRUE,14,69,82,69,82,0,NA,no row (reason unknown),63,12,FALSE,82,TRUE,FALSE,56-82,reachable
+2023,2999547,Gary Harris,FALSE,high_minute_nonstar,0,TRUE,15,1,15,1,15,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,2999547,Gary Harris,FALSE,high_minute_nonstar,4,TRUE,11,23,33,23,33,0,NA,no row (reason unknown),6,1,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,3012,Kyle Lowry,FALSE,star,9,TRUE,15,54,68,54,68,1,LEFT KNEE SORENESS,injury or illness,44,8,TRUE,82,FALSE,FALSE,41-55,reachable
+2023,3032979,Dennis Schroder,FALSE,high_minute_nonstar,0,TRUE,13,1,13,1,13,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,3037789,Bogdan Bogdanovic,FALSE,high_minute_nonstar,0,TRUE,22,1,22,1,22,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,3059319,Andrew Wiggins,FALSE,star,5,TRUE,15,25,39,25,39,0,NA,no row (reason unknown),22,15,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,3059319,Andrew Wiggins,FALSE,star,11,TRUE,25,58,82,58,82,0,NA,no row (reason unknown),37,-3,FALSE,82,TRUE,FALSE,56-82,unreachable
+2023,3064482,Bobby Portis,FALSE,high_minute_nonstar,1,TRUE,11,48,58,48,58,0,NA,no row (reason unknown),46,16,TRUE,82,FALSE,FALSE,41-55,reachable
+2023,3102530,Jusuf Nurkic,FALSE,high_minute_nonstar,9,TRUE,14,52,65,52,65,0,NA,no row (reason unknown),42,8,TRUE,82,FALSE,FALSE,41-55,reachable
+2023,3102530,Jusuf Nurkic,FALSE,high_minute_nonstar,11,TRUE,10,73,82,73,82,0,NA,no row (reason unknown),47,-8,FALSE,82,TRUE,FALSE,56-82,unreachable
+2023,3134907,Kyle Kuzma,FALSE,high_minute_nonstar,9,TRUE,11,72,82,72,82,0,NA,no row (reason unknown),63,9,FALSE,82,TRUE,FALSE,56-82,reachable
+2023,3136193,Devin Booker,FALSE,star,5,TRUE,21,35,55,35,55,0,NA,no row (reason unknown),28,11,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,3136195,Karl-Anthony Towns,FALSE,star,1,TRUE,52,22,73,22,73,0,NA,no row (reason unknown),21,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,3149673,Pascal Siakam,FALSE,star,1,TRUE,10,10,19,10,19,0,NA,no row (reason unknown),9,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,3202,Kevin Durant,FALSE,star,3,TRUE,10,66,75,44,53,1,LEFT ANKLE,injury or illness,42,-6,TRUE,60,FALSE,FALSE,56-82,unreachable
+2023,3593,Bojan Bogdanovic,FALSE,high_minute_nonstar,9,TRUE,19,64,82,64,82,0,NA,no row (reason unknown),59,13,FALSE,82,TRUE,FALSE,56-82,reachable
+2023,3907387,Ben Simmons,FALSE,star,13,TRUE,24,59,82,59,82,0,NA,no row (reason unknown),36,-5,FALSE,82,TRUE,FALSE,56-82,unreachable
+2023,3913176,Brandon Ingram,FALSE,star,3,TRUE,29,20,48,20,48,0,NA,no row (reason unknown),14,12,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,3975,Stephen Curry,FALSE,star,7,TRUE,11,30,40,30,40,0,NA,no row (reason unknown),26,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,3975,Stephen Curry,FALSE,star,11,TRUE,11,54,64,54,64,0,NA,no row (reason unknown),38,2,TRUE,82,FALSE,FALSE,41-55,reachable
+2023,3992,James Harden,FALSE,star,1,TRUE,14,10,23,10,23,2,RIGHT FOOT,injury or illness,9,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,4066211,Robert Williams III,FALSE,high_minute_nonstar,0,TRUE,29,1,29,1,29,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,4066320,Desmond Bane,FALSE,high_minute_nonstar,3,TRUE,17,14,30,14,30,0,NA,no row (reason unknown),12,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,4277847,Wendell Carter Jr.,FALSE,high_minute_nonstar,3,TRUE,17,17,33,17,33,1,RIGHT PLANTAR FASCIA STRAIN,injury or illness,15,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,4351851,Anfernee Simons,FALSE,high_minute_nonstar,7,TRUE,11,72,82,72,82,0,NA,no row (reason unknown),62,8,FALSE,82,TRUE,FALSE,56-82,reachable
+2023,4395628,Zion Williamson,FALSE,star,7,TRUE,45,38,82,38,82,0,NA,no row (reason unknown),29,9,FALSE,82,TRUE,FALSE,21-40,reachable
+2023,4396993,Tyrese Haliburton,FALSE,high_minute_nonstar,3,TRUE,10,43,52,43,52,0,NA,no row (reason unknown),40,15,TRUE,82,FALSE,FALSE,41-55,reachable
+2023,4397140,Kevin Porter Jr.,FALSE,high_minute_nonstar,3,TRUE,20,42,61,42,61,0,NA,no row (reason unknown),39,15,TRUE,82,FALSE,FALSE,41-55,reachable
+2023,4431678,Tyrese Maxey,FALSE,high_minute_nonstar,1,TRUE,18,16,33,16,33,0,NA,no row (reason unknown),15,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,4432166,Cade Cunningham,FALSE,high_minute_nonstar,1,TRUE,70,13,82,13,82,0,NA,no row (reason unknown),12,17,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2023,4432809,Cole Anthony,FALSE,high_minute_nonstar,2,TRUE,16,6,21,6,21,0,NA,no row (reason unknown),4,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,4432816,LaMelo Ball,FALSE,star,0,TRUE,13,1,13,1,13,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,4432816,LaMelo Ball,FALSE,star,2,TRUE,11,17,27,17,27,0,NA,no row (reason unknown),3,4,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,4432816,LaMelo Ball,FALSE,star,6,TRUE,19,64,82,64,82,0,NA,no row (reason unknown),36,-10,FALSE,82,TRUE,FALSE,56-82,unreachable
+2023,4592402,Chris Duarte,FALSE,high_minute_nonstar,1,TRUE,21,10,30,10,30,0,NA,no row (reason unknown),6,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,6429,Alec Burks,FALSE,high_minute_nonstar,0,TRUE,12,1,12,1,12,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,6429,Alec Burks,FALSE,high_minute_nonstar,6,TRUE,17,66,82,66,82,0,NA,no row (reason unknown),36,-12,FALSE,82,TRUE,FALSE,56-82,unreachable
+2023,6450,Kawhi Leonard,FALSE,star,3,TRUE,12,4,15,4,15,0,NA,no row (reason unknown),2,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,6479,Kemba Walker,FALSE,star,0,TRUE,25,1,25,1,25,3,COACH'S DECISION,coach's decision,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,6479,Kemba Walker,FALSE,star,8,TRUE,43,40,82,40,82,0,NA,no row (reason unknown),4,-18,FALSE,82,TRUE,FALSE,21-40,unreachable
+2023,6580,Bradley Beal,FALSE,star,13,TRUE,10,73,82,73,82,0,NA,no row (reason unknown),48,-7,FALSE,82,TRUE,FALSE,56-82,unreachable
+2023,6581,Jae Crowder,FALSE,high_minute_nonstar,0,TRUE,58,1,58,1,58,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,6583,Anthony Davis,FALSE,star,7,TRUE,20,29,48,29,48,0,NA,no row (reason unknown),24,13,TRUE,82,FALSE,FALSE,21-40,reachable
+2023,6588,Evan Fournier,FALSE,high_minute_nonstar,1,TRUE,22,14,35,14,35,22,COACH'S DECISION,coach's decision,9,13,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2023,6588,Evan Fournier,FALSE,high_minute_nonstar,11,TRUE,19,60,78,60,78,18,COACH'S DECISION,coach's decision,13,-29,TRUE,82,FALSE,FALSE,56-82,unreachable
+2023,6606,Damian Lillard,FALSE,star,11,TRUE,10,73,82,73,82,0,NA,no row (reason unknown),58,3,FALSE,82,TRUE,FALSE,56-82,reachable
+2023,6609,Khris Middleton,FALSE,star,0,TRUE,20,1,20,1,20,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2023,6609,Khris Middleton,FALSE,star,4,TRUE,18,29,46,29,46,0,NA,no row (reason unknown),6,-5,TRUE,82,FALSE,FALSE,21-40,unreachable
+2024,2490149,CJ McCollum,TRUE,high_minute_nonstar,1,TRUE,12,7,18,7,18,0,NA,no row (reason unknown),6,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,2528426,Jordan Clarkson,TRUE,high_minute_nonstar,11,TRUE,10,73,82,73,82,1,BACK,injury or illness,55,0,TRUE,82,TRUE,FALSE,56-82,reachable
+2024,2779,Chris Paul,TRUE,star,5,TRUE,21,36,56,36,56,0,NA,no row (reason unknown),31,13,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,2990992,Marcus Smart,TRUE,high_minute_nonstar,1,TRUE,17,12,28,12,28,0,NA,no row (reason unknown),10,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,2990992,Marcus Smart,TRUE,high_minute_nonstar,3,TRUE,45,38,82,38,82,0,NA,no row (reason unknown),19,-1,FALSE,82,TRUE,FALSE,21-40,unreachable
+2024,2991070,Jerami Grant,TRUE,high_minute_nonstar,11,TRUE,18,65,82,65,82,0,NA,no row (reason unknown),53,6,FALSE,82,TRUE,FALSE,56-82,reachable
+2024,3059318,Joel Embiid,TRUE,star,11,TRUE,29,47,75,47,75,0,NA,no row (reason unknown),34,5,TRUE,82,FALSE,FALSE,41-55,reachable
+2024,3064440,Zach LaVine,TRUE,star,3,TRUE,17,20,36,20,36,0,NA,no row (reason unknown),18,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,3064440,Zach LaVine,TRUE,star,5,TRUE,39,44,82,44,82,0,NA,no row (reason unknown),25,-1,FALSE,82,TRUE,FALSE,41-55,unreachable
+2024,3064514,Julius Randle,TRUE,star,1,TRUE,36,47,82,47,82,4,INJURY/ILLNESS,injury or illness,46,17,TRUE,82,TRUE,FALSE,41-55,reachable
+2024,3133603,Kelly Oubre Jr.,TRUE,high_minute_nonstar,1,TRUE,11,9,19,9,19,0,NA,no row (reason unknown),8,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,3136195,Karl-Anthony Towns,TRUE,star,5,TRUE,18,63,80,63,80,0,NA,no row (reason unknown),60,15,TRUE,82,FALSE,FALSE,56-82,reachable
+2024,3138160,Caleb Martin,TRUE,high_minute_nonstar,1,TRUE,10,2,11,2,11,1,COACH'S DECISION,coach's decision,1,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,3468,Russell Westbrook,TRUE,high_minute_nonstar,1,TRUE,12,59,70,59,70,0,NA,no row (reason unknown),36,-5,TRUE,82,FALSE,FALSE,56-82,unreachable
+2024,3593,Bojan Bogdanovic,TRUE,high_minute_nonstar,0,TRUE,19,1,19,1,19,0,NA,no row (reason unknown),0,17,FALSE,80,FALSE,TRUE,games 1-20,reachable
+2024,3913176,Brandon Ingram,TRUE,high_minute_nonstar,7,TRUE,12,70,81,70,81,0,NA,no row (reason unknown),63,11,TRUE,82,FALSE,FALSE,56-82,reachable
+2024,3934719,OG Anunoby,TRUE,high_minute_nonstar,5,TRUE,18,47,64,46,63,4,RIGHT ELBOW,injury or illness,41,12,TRUE,81,FALSE,FALSE,41-55,reachable
+2024,3936299,Jamal Murray,TRUE,high_minute_nonstar,1,TRUE,11,8,18,8,18,0,NA,no row (reason unknown),6,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,4065732,De'Andre Hunter,TRUE,high_minute_nonstar,3,TRUE,19,28,46,28,46,0,NA,no row (reason unknown),24,14,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,4065778,Max Strus,TRUE,high_minute_nonstar,1,TRUE,12,61,72,61,72,0,NA,no row (reason unknown),59,16,TRUE,82,FALSE,FALSE,56-82,reachable
+2024,4066320,Desmond Bane,TRUE,high_minute_nonstar,3,TRUE,29,39,67,39,67,1,SPRAINED LEFT ANKLE,injury or illness,37,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,4066372,Kevin Huerter,TRUE,high_minute_nonstar,7,TRUE,15,68,82,68,82,0,NA,no row (reason unknown),47,-3,FALSE,82,TRUE,FALSE,56-82,unreachable
+2024,4066636,Markelle Fultz,TRUE,high_minute_nonstar,3,TRUE,27,9,35,9,35,1,LEFT KNEE TENDINITIS,injury or illness,5,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,4277847,Wendell Carter Jr.,TRUE,high_minute_nonstar,1,TRUE,20,6,25,6,25,0,NA,no row (reason unknown),5,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,4277905,Trae Young,TRUE,star,9,TRUE,23,57,79,57,79,8,LEFT FINGER,injury or illness,51,12,TRUE,82,FALSE,FALSE,56-82,reachable
+2024,4278129,Deandre Ayton,TRUE,high_minute_nonstar,5,TRUE,12,29,40,29,40,1,NOT WITH TEAM,other,24,13,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,4279888,Ja Morant,TRUE,star,0,TRUE,25,1,25,1,25,5,SUSPENDED BY LEAGUE,other,0,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,4279888,Ja Morant,TRUE,star,4,TRUE,47,36,82,36,82,0,NA,no row (reason unknown),9,-9,FALSE,82,TRUE,FALSE,21-40,unreachable
+2024,4351851,Anfernee Simons,TRUE,high_minute_nonstar,1,TRUE,18,2,19,2,19,0,NA,no row (reason unknown),1,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,4351851,Anfernee Simons,TRUE,high_minute_nonstar,11,TRUE,12,71,82,71,82,4,LEFT KNEE TENDINITIS,injury or illness,46,-7,TRUE,82,TRUE,FALSE,56-82,unreachable
+2024,4395725,Tyler Herro,TRUE,high_minute_nonstar,1,TRUE,18,9,26,9,26,0,NA,no row (reason unknown),7,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,4395725,Tyler Herro,TRUE,high_minute_nonstar,7,TRUE,20,57,76,57,76,3,LEFT KNEE,injury or illness,35,-4,TRUE,82,FALSE,FALSE,56-82,unreachable
+2024,4396907,Darius Garland,TRUE,star,5,TRUE,19,26,44,26,44,0,NA,no row (reason unknown),19,11,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,4397014,Quentin Grimes,TRUE,high_minute_nonstar,7,TRUE,17,66,82,59,75,0,NA,no row (reason unknown),29,-19,FALSE,75,TRUE,FALSE,56-82,unreachable
+2024,4397688,Trey Murphy III,TRUE,high_minute_nonstar,0,TRUE,19,1,19,1,19,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2024,4431687,Patrick Williams,TRUE,high_minute_nonstar,5,TRUE,36,47,82,47,82,3,INJURY/ILLNESS,injury or illness,39,10,TRUE,82,TRUE,FALSE,41-55,reachable
+2024,4432158,Evan Mobley,TRUE,high_minute_nonstar,1,TRUE,22,22,43,22,43,0,NA,no row (reason unknown),21,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,4432810,Isaiah Stewart,TRUE,high_minute_nonstar,7,TRUE,11,47,57,47,57,5,COACH'S DECISION,coach's decision,35,6,TRUE,82,FALSE,FALSE,41-55,reachable
+2024,4432810,Isaiah Stewart,TRUE,high_minute_nonstar,9,TRUE,14,69,82,69,82,0,NA,no row (reason unknown),46,-5,FALSE,82,TRUE,FALSE,56-82,unreachable
+2024,4432816,LaMelo Ball,TRUE,star,1,TRUE,20,16,35,16,35,1,RIGHT ANKLE SPRAIN,injury or illness,15,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,4432816,LaMelo Ball,TRUE,star,5,TRUE,39,44,82,44,82,0,NA,no row (reason unknown),22,-4,FALSE,82,TRUE,FALSE,41-55,unreachable
+2024,4433134,Scottie Barnes,TRUE,high_minute_nonstar,1,TRUE,22,61,82,61,82,0,NA,no row (reason unknown),60,17,FALSE,82,TRUE,FALSE,56-82,reachable
+2024,4683024,Killian Hayes,TRUE,high_minute_nonstar,7,TRUE,32,51,82,51,82,0,NA,no row (reason unknown),31,-2,FALSE,82,TRUE,FALSE,41-55,unreachable
+2024,4683634,Bennedict Mathurin,TRUE,high_minute_nonstar,7,TRUE,19,65,83,65,83,0,NA,no row (reason unknown),54,8,FALSE,83,TRUE,FALSE,56-82,reachable
+2024,4871144,Alperen Sengun,TRUE,high_minute_nonstar,3,TRUE,18,65,82,65,82,0,NA,no row (reason unknown),63,16,FALSE,82,TRUE,FALSE,56-82,reachable
+2024,6442,Kyrie Irving,TRUE,star,7,TRUE,12,22,33,22,33,1,RIGHT HEEL BRUISE,injury or illness,16,12,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,6580,Bradley Beal,TRUE,star,2,TRUE,12,11,22,11,22,0,NA,no row (reason unknown),3,10,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2024,6589,Draymond Green,TRUE,high_minute_nonstar,6,TRUE,16,24,39,24,39,15,SUSPENDED BY LEAGUE,other,14,8,TRUE,82,FALSE,FALSE,21-40,reachable
+2024,6609,Khris Middleton,TRUE,star,17,TRUE,16,52,67,52,67,0,NA,no row (reason unknown),38,4,TRUE,82,FALSE,FALSE,41-55,reachable
+2025,2490149,CJ McCollum,TRUE,high_minute_nonstar,1,TRUE,13,5,17,5,17,2,RIGHT ADDUCTOR,injury or illness,4,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,2490149,CJ McCollum,TRUE,high_minute_nonstar,9,TRUE,10,73,82,73,82,2,REST,rest,56,1,TRUE,82,TRUE,FALSE,56-82,reachable
+2025,2528426,Jordan Clarkson,TRUE,high_minute_nonstar,9,TRUE,10,34,43,34,43,0,NA,no row (reason unknown),20,4,TRUE,82,FALSE,FALSE,21-40,reachable
+2025,2528426,Jordan Clarkson,TRUE,high_minute_nonstar,25,TRUE,10,73,82,73,82,1,PLANTAR FASCIITIS LEFT FOOT,injury or illness,35,-20,TRUE,82,TRUE,FALSE,56-82,unreachable
+2025,2991070,Jerami Grant,TRUE,high_minute_nonstar,11,TRUE,17,66,82,66,82,17,RIGHT KNEE TENDINITIS,injury or illness,47,-1,TRUE,82,TRUE,FALSE,56-82,unreachable
+2025,2991230,Fred VanVleet,TRUE,star,7,TRUE,11,49,59,49,59,11,RIGHT ANKLE INJURY,injury or illness,45,14,TRUE,82,FALSE,FALSE,41-55,reachable
+2025,2991350,Alex Caruso,TRUE,high_minute_nonstar,5,TRUE,10,30,39,30,39,3,STRAINED LEFT HIP,injury or illness,15,4,TRUE,83,FALSE,FALSE,21-40,reachable
+2025,3012,Kyle Lowry,TRUE,high_minute_nonstar,9,TRUE,10,34,43,34,43,0,NA,no row (reason unknown),15,-1,TRUE,82,FALSE,FALSE,21-40,unreachable
+2025,3012,Kyle Lowry,TRUE,high_minute_nonstar,13,TRUE,23,53,75,53,75,0,NA,no row (reason unknown),17,-18,TRUE,82,FALSE,FALSE,41-55,unreachable
+2025,3032976,Rudy Gobert,TRUE,star,1,TRUE,10,56,65,56,65,0,NA,no row (reason unknown),55,17,TRUE,82,FALSE,FALSE,56-82,reachable
+2025,3037789,Bogdan Bogdanovic,TRUE,high_minute_nonstar,1,TRUE,13,2,14,2,14,0,NA,no row (reason unknown),1,17,TRUE,76,FALSE,FALSE,games 1-20,reachable
+2025,3059318,Joel Embiid,TRUE,star,12,TRUE,15,34,48,34,48,1,SINUS FRACTURE,injury or illness,12,-4,TRUE,82,FALSE,FALSE,21-40,unreachable
+2025,3059318,Joel Embiid,TRUE,star,18,TRUE,26,57,82,57,82,0,NA,no row (reason unknown),18,-21,FALSE,82,TRUE,FALSE,56-82,unreachable
+2025,3064290,Aaron Gordon,TRUE,high_minute_nonstar,1,TRUE,10,8,17,8,17,0,NA,no row (reason unknown),6,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,3064514,Julius Randle,TRUE,star,1,TRUE,13,49,61,49,61,0,NA,no row (reason unknown),47,16,TRUE,82,FALSE,FALSE,41-55,reachable
+2025,3102531,Kristaps Porzingis,TRUE,high_minute_nonstar,0,TRUE,17,1,17,1,17,3,INJURED,injury or illness,0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2025,3133603,Kelly Oubre Jr.,TRUE,high_minute_nonstar,7,TRUE,17,66,82,66,82,14,RIGHT KNEE SPRAIN,injury or illness,60,12,TRUE,82,TRUE,FALSE,56-82,reachable
+2025,3134907,Kyle Kuzma,TRUE,high_minute_nonstar,3,TRUE,12,18,29,18,29,0,NA,no row (reason unknown),11,11,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,3907497,Dejounte Murray,TRUE,star,1,TRUE,17,2,18,2,18,0,NA,no row (reason unknown),1,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,3907497,Dejounte Murray,TRUE,star,5,TRUE,33,50,82,50,82,0,NA,no row (reason unknown),30,-2,FALSE,82,TRUE,FALSE,41-55,unreachable
+2025,3913176,Brandon Ingram,TRUE,high_minute_nonstar,5,TRUE,24,59,82,25,48,6,LEFT ANKLE SPRAIN,injury or illness,18,-23,TRUE,48,TRUE,FALSE,56-82,unreachable
+2025,3934672,Jalen Brunson,TRUE,star,3,TRUE,15,63,77,63,77,1,RIGHT ANKLE SPRAIN,injury or illness,61,16,TRUE,82,FALSE,FALSE,56-82,reachable
+2025,3934673,Donte DiVincenzo,TRUE,high_minute_nonstar,1,TRUE,19,41,59,41,59,0,NA,no row (reason unknown),38,15,TRUE,82,FALSE,FALSE,41-55,reachable
+2025,4065732,De'Andre Hunter,TRUE,high_minute_nonstar,1,TRUE,10,3,12,3,12,0,NA,no row (reason unknown),2,17,TRUE,81,FALSE,FALSE,games 1-20,reachable
+2025,4065778,Max Strus,TRUE,high_minute_nonstar,0,TRUE,27,1,27,1,27,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2025,4066259,De'Aaron Fox,TRUE,star,3,TRUE,18,65,82,66,83,0,NA,no row (reason unknown),62,15,FALSE,83,TRUE,FALSE,56-82,reachable
+2025,4066336,Lauri Markkanen,TRUE,star,19,TRUE,13,70,82,70,82,0,NA,no row (reason unknown),47,-5,FALSE,82,TRUE,FALSE,56-82,unreachable
+2025,4066383,Miles Bridges,TRUE,high_minute_nonstar,3,TRUE,10,15,24,15,24,0,NA,no row (reason unknown),11,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4251,Paul George,TRUE,star,18,TRUE,21,62,82,62,82,0,NA,no row (reason unknown),40,-4,FALSE,82,TRUE,FALSE,56-82,unreachable
+2025,4277813,Herbert Jones,TRUE,high_minute_nonstar,1,TRUE,18,5,22,5,22,0,NA,no row (reason unknown),4,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4277813,Herbert Jones,TRUE,high_minute_nonstar,3,TRUE,44,39,82,39,82,7,RIGHT SHOULDER,injury or illness,20,-1,TRUE,82,TRUE,FALSE,21-40,unreachable
+2025,4278129,Deandre Ayton,TRUE,high_minute_nonstar,11,TRUE,28,55,82,55,82,15,STRAINED LEFT CALF,injury or illness,39,2,TRUE,82,TRUE,FALSE,41-55,reachable
+2025,4395628,Zion Williamson,TRUE,high_minute_nonstar,4,TRUE,27,10,36,10,36,1,LEFT HAMSTRING,injury or illness,6,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4395628,Zion Williamson,TRUE,high_minute_nonstar,22,TRUE,12,71,82,71,82,0,NA,no row (reason unknown),30,-23,FALSE,82,TRUE,FALSE,56-82,unreachable
+2025,4395724,Immanuel Quickley,TRUE,high_minute_nonstar,3,TRUE,22,12,33,12,33,4,LEFT ELBOW,injury or illness,2,8,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4397002,Ayo Dosunmu,TRUE,high_minute_nonstar,1,TRUE,10,31,40,31,40,1,RIGHT ACHILLES TENDINITIS,injury or illness,30,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2025,4397002,Ayo Dosunmu,TRUE,high_minute_nonstar,7,TRUE,22,61,82,61,82,0,NA,no row (reason unknown),46,3,FALSE,82,TRUE,FALSE,56-82,reachable
+2025,4397688,Trey Murphy III,TRUE,high_minute_nonstar,0,TRUE,10,1,10,1,10,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2025,4397688,Trey Murphy III,TRUE,high_minute_nonstar,10,TRUE,13,70,82,70,82,0,NA,no row (reason unknown),52,0,FALSE,82,TRUE,FALSE,56-82,reachable
+2025,4431678,Tyrese Maxey,TRUE,star,7,TRUE,22,61,82,61,82,14,LOWER BACK SPRAIN,injury or illness,52,9,TRUE,82,TRUE,FALSE,56-82,reachable
+2025,4432174,Cam Thomas,TRUE,high_minute_nonstar,3,TRUE,13,19,31,19,31,0,NA,no row (reason unknown),17,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4432174,Cam Thomas,TRUE,high_minute_nonstar,7,TRUE,24,35,58,35,58,7,LEFT HAMSTRING STRAIN,injury or illness,19,2,TRUE,82,FALSE,FALSE,21-40,reachable
+2025,4432174,Cam Thomas,TRUE,high_minute_nonstar,13,TRUE,16,67,82,67,82,7,STRAINED LEFT HAMSTRING,injury or illness,25,-24,TRUE,82,TRUE,FALSE,56-82,unreachable
+2025,4432573,Paolo Banchero,TRUE,star,1,TRUE,34,6,39,6,39,0,NA,no row (reason unknown),5,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4432639,Jabari Smith Jr.,TRUE,high_minute_nonstar,1,TRUE,22,34,55,34,55,19,LEFT HAND,injury or illness,33,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2025,4432816,LaMelo Ball,TRUE,star,25,TRUE,10,73,82,73,82,0,NA,no row (reason unknown),45,-10,FALSE,82,TRUE,FALSE,56-82,unreachable
+2025,4433134,Scottie Barnes,TRUE,star,1,TRUE,11,5,15,5,15,0,NA,no row (reason unknown),4,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4433218,Jaden Ivey,TRUE,high_minute_nonstar,5,TRUE,49,34,82,34,82,0,NA,no row (reason unknown),30,14,FALSE,82,TRUE,FALSE,21-40,reachable
+2025,4433255,Chet Holmgren,TRUE,high_minute_nonstar,1,TRUE,40,11,50,11,50,0,NA,no row (reason unknown),9,17,TRUE,83,FALSE,FALSE,games 1-20,reachable
+2025,4433287,Brandon Miller,TRUE,high_minute_nonstar,7,TRUE,45,38,82,38,82,0,NA,no row (reason unknown),26,6,FALSE,82,TRUE,FALSE,21-40,reachable
+2025,4566434,Franz Wagner,TRUE,high_minute_nonstar,1,TRUE,20,26,45,26,45,0,NA,no row (reason unknown),24,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2025,4610139,Jeremy Sochan,TRUE,high_minute_nonstar,1,TRUE,13,8,20,8,20,0,NA,no row (reason unknown),6,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2025,4701230,Jalen Johnson,TRUE,high_minute_nonstar,9,TRUE,38,45,82,45,82,11,LEFT SHOULDER SURGERY,injury or illness,35,8,TRUE,82,TRUE,FALSE,41-55,reachable
+2025,5104157,Victor Wembanyama,TRUE,high_minute_nonstar,7,TRUE,30,53,82,53,82,0,NA,no row (reason unknown),46,11,FALSE,82,TRUE,FALSE,41-55,reachable
+2025,6442,Kyrie Irving,TRUE,star,17,TRUE,20,63,82,63,82,0,NA,no row (reason unknown),49,4,FALSE,82,TRUE,FALSE,56-82,reachable
+2025,6450,Kawhi Leonard,TRUE,star,0,TRUE,34,1,34,1,34,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2025,6583,Anthony Davis,TRUE,star,7,TRUE,18,54,71,47,64,0,NA,no row (reason unknown),41,5,TRUE,75,FALSE,FALSE,41-55,reachable
+2025,6606,Damian Lillard,TRUE,star,11,TRUE,14,70,83,70,83,0,NA,no row (reason unknown),59,8,FALSE,83,TRUE,FALSE,56-82,reachable
+2025,6609,Khris Middleton,TRUE,star,0,TRUE,21,1,21,1,21,0,NA,no row (reason unknown),0,18,FALSE,80,FALSE,TRUE,games 1-20,reachable
+2026,1966,LeBron James,TRUE,star,0,TRUE,14,1,14,1,14,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2026,2578185,Dorian Finney-Smith,TRUE,high_minute_nonstar,0,TRUE,27,1,27,1,27,1,LEFT ANKLE SURGERY,injury or illness,0,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,2581018,Kentavious Caldwell-Pope,TRUE,high_minute_nonstar,5,TRUE,29,54,82,54,82,0,NA,no row (reason unknown),37,1,FALSE,82,TRUE,FALSE,41-55,reachable
+2026,2991070,Jerami Grant,TRUE,high_minute_nonstar,3,TRUE,14,28,41,28,41,14,LEFT ACHILLES TENDON,injury or illness,25,15,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,3032977,Giannis Antetokounmpo,TRUE,star,9,TRUE,15,45,59,45,59,0,NA,no row (reason unknown),28,1,TRUE,82,FALSE,FALSE,41-55,reachable
+2026,3032977,Giannis Antetokounmpo,TRUE,star,15,TRUE,15,68,82,68,82,0,NA,no row (reason unknown),34,-16,FALSE,82,TRUE,FALSE,56-82,unreachable
+2026,3059318,Joel Embiid,TRUE,star,27,TRUE,13,60,72,60,72,0,NA,no row (reason unknown),33,-9,TRUE,82,FALSE,FALSE,56-82,unreachable
+2026,3064290,Aaron Gordon,TRUE,high_minute_nonstar,5,TRUE,19,16,34,16,34,0,NA,no row (reason unknown),12,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,3064290,Aaron Gordon,TRUE,high_minute_nonstar,11,TRUE,17,47,63,47,63,2,RIGHT HAMSTRING STRAIN,injury or illness,22,-7,TRUE,82,FALSE,FALSE,41-55,unreachable
+2026,3064440,Zach LaVine,TRUE,high_minute_nonstar,11,TRUE,29,54,82,54,82,1,RIGHT FINGER SURGERY,injury or illness,38,2,TRUE,82,TRUE,FALSE,41-55,reachable
+2026,3102531,Kristaps Porzingis,TRUE,high_minute_nonstar,11,TRUE,10,25,34,25,34,8,RETURN TO COMPETITION RECONDITIONING,other,13,6,TRUE,69,FALSE,FALSE,21-40,reachable
+2026,3112335,Nikola Jokic,TRUE,star,1,TRUE,16,33,48,33,48,0,NA,no row (reason unknown),32,17,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,3133603,Kelly Oubre Jr.,TRUE,high_minute_nonstar,1,TRUE,22,13,34,13,34,0,NA,no row (reason unknown),12,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,3134908,Jakob Poeltl,TRUE,high_minute_nonstar,13,TRUE,24,31,54,31,54,0,NA,no row (reason unknown),20,7,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,3138196,Cameron Johnson,TRUE,high_minute_nonstar,3,TRUE,23,30,52,30,52,0,NA,no row (reason unknown),27,15,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,3155526,Dillon Brooks,TRUE,high_minute_nonstar,5,TRUE,18,58,75,58,75,0,NA,no row (reason unknown),49,9,TRUE,82,FALSE,FALSE,56-82,reachable
+2026,3155942,Domantas Sabonis,TRUE,star,4,TRUE,27,15,41,15,41,0,NA,no row (reason unknown),11,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,3155942,Domantas Sabonis,TRUE,star,10,TRUE,30,53,82,53,82,3,LOWER BACK SORENESS,injury or illness,19,-16,TRUE,82,TRUE,FALSE,41-55,unreachable
+2026,3975,Stephen Curry,TRUE,star,11,TRUE,27,51,77,51,77,0,NA,no row (reason unknown),39,6,TRUE,82,FALSE,FALSE,41-55,reachable
+2026,3995,Jrue Holiday,TRUE,star,1,TRUE,27,13,39,13,39,17,RIGHT CALF,injury or illness,12,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,4017837,Ivica Zubac,TRUE,high_minute_nonstar,5,TRUE,12,71,82,55,66,0,NA,no row (reason unknown),47,-6,FALSE,66,TRUE,FALSE,56-82,unreachable
+2026,4065648,Jayson Tatum,TRUE,star,0,TRUE,62,1,62,1,62,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2026,4066336,Lauri Markkanen,TRUE,star,17,TRUE,24,59,82,59,82,0,NA,no row (reason unknown),42,1,FALSE,82,TRUE,FALSE,56-82,reachable
+2026,4066457,Austin Reaves,TRUE,high_minute_nonstar,5,TRUE,19,30,48,30,48,1,LEFT CALF STRAIN,injury or illness,23,11,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,4251,Paul George,TRUE,star,0,TRUE,12,1,12,1,12,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2026,4251,Paul George,TRUE,star,16,TRUE,25,48,72,48,72,5,SUSPENDED BY LEAGUE,other,27,-3,TRUE,82,FALSE,FALSE,41-55,unreachable
+2026,4277905,Trae Young,TRUE,star,1,TRUE,22,6,27,6,27,4,RIGHT MCL SPRAIN,injury or illness,4,16,TRUE,57,FALSE,FALSE,games 1-20,reachable
+2026,4277905,Trae Young,TRUE,star,9,TRUE,15,68,82,43,57,3,RIGHT QUAD CONTUSION,injury or illness,14,-36,TRUE,57,TRUE,FALSE,56-82,unreachable
+2026,4277956,Jordan Poole,TRUE,high_minute_nonstar,1,TRUE,18,8,25,8,25,0,NA,no row (reason unknown),7,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,4277961,Jaren Jackson Jr.,TRUE,star,5,TRUE,27,56,82,52,78,0,NA,no row (reason unknown),48,10,FALSE,78,TRUE,FALSE,56-82,reachable
+2026,4278104,Michael Porter Jr.,TRUE,high_minute_nonstar,19,TRUE,17,66,82,66,82,0,NA,no row (reason unknown),52,4,FALSE,82,TRUE,FALSE,56-82,reachable
+2026,4279888,Ja Morant,TRUE,star,5,TRUE,10,15,24,15,24,0,NA,no row (reason unknown),11,14,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,4279888,Ja Morant,TRUE,star,11,TRUE,40,43,82,43,82,0,NA,no row (reason unknown),19,-6,FALSE,82,TRUE,FALSE,41-55,unreachable
+2026,4351851,Anfernee Simons,TRUE,high_minute_nonstar,3,TRUE,25,58,82,57,81,8,WRIST INJURY,injury or illness,46,6,TRUE,81,TRUE,FALSE,56-82,reachable
+2026,4395625,RJ Barrett,TRUE,high_minute_nonstar,1,TRUE,15,18,32,18,32,0,NA,no row (reason unknown),17,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,4395630,Devin Vassell,TRUE,high_minute_nonstar,1,TRUE,13,34,46,34,46,0,NA,no row (reason unknown),33,18,TRUE,83,FALSE,FALSE,21-40,reachable
+2026,4395651,Coby White,TRUE,high_minute_nonstar,0,TRUE,11,1,11,1,11,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2026,4395725,Tyler Herro,TRUE,high_minute_nonstar,0,TRUE,17,1,17,1,17,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2026,4395725,Tyler Herro,TRUE,high_minute_nonstar,4,TRUE,11,26,36,26,36,10,RIGHT TOE,injury or illness,6,-2,TRUE,82,FALSE,FALSE,21-40,unreachable
+2026,4395725,Tyler Herro,TRUE,high_minute_nonstar,6,TRUE,15,42,56,42,56,3,RIB CONTUSION,injury or illness,11,-13,TRUE,82,FALSE,FALSE,41-55,unreachable
+2026,4431678,Tyrese Maxey,TRUE,star,3,TRUE,10,64,73,64,73,0,NA,no row (reason unknown),61,15,TRUE,82,FALSE,FALSE,56-82,reachable
+2026,4431767,Christian Braun,TRUE,high_minute_nonstar,1,TRUE,23,12,34,12,34,0,NA,no row (reason unknown),11,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,4431767,Christian Braun,TRUE,high_minute_nonstar,5,TRUE,12,39,50,39,50,1,LEFT ANKLE SPRAIN,injury or illness,14,-7,TRUE,82,FALSE,FALSE,21-40,unreachable
+2026,4432166,Cade Cunningham,TRUE,star,9,TRUE,11,69,79,69,79,0,NA,no row (reason unknown),60,9,TRUE,82,FALSE,FALSE,56-82,reachable
+2026,4432573,Paolo Banchero,TRUE,star,1,TRUE,10,13,22,13,22,0,NA,no row (reason unknown),11,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,4433136,Walker Kessler,TRUE,high_minute_nonstar,1,TRUE,77,6,82,6,82,3,INJURY/ILLNESS,injury or illness,5,17,TRUE,82,TRUE,FALSE,games 1-20,reachable
+2026,4433627,Keyonte George,TRUE,high_minute_nonstar,11,TRUE,16,67,82,67,82,0,NA,no row (reason unknown),53,4,FALSE,82,TRUE,FALSE,56-82,reachable
+2026,4437244,Jalen Green,TRUE,high_minute_nonstar,2,TRUE,33,11,43,11,43,0,NA,no row (reason unknown),1,8,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,4566434,Franz Wagner,TRUE,high_minute_nonstar,1,TRUE,16,25,40,25,40,0,NA,no row (reason unknown),23,16,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,4566434,Franz Wagner,TRUE,high_minute_nonstar,5,TRUE,22,54,75,54,75,0,NA,no row (reason unknown),27,-9,TRUE,82,FALSE,FALSE,41-55,unreachable
+2026,4593803,Jalen Williams,TRUE,star,0,TRUE,19,1,19,1,19,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2026,4593803,Jalen Williams,TRUE,star,2,TRUE,10,44,53,44,53,0,NA,no row (reason unknown),23,-3,TRUE,82,FALSE,FALSE,41-55,unreachable
+2026,4593803,Jalen Williams,TRUE,star,4,TRUE,16,56,71,56,71,0,NA,no row (reason unknown),25,-13,TRUE,82,FALSE,FALSE,56-82,unreachable
+2026,4594327,Keegan Murray,TRUE,high_minute_nonstar,0,TRUE,15,1,15,1,15,0,NA,no row (reason unknown),0,17,FALSE,82,FALSE,TRUE,games 1-20,reachable
+2026,4594327,Keegan Murray,TRUE,high_minute_nonstar,4,TRUE,20,37,56,37,56,2,LEFT ANKLE SPRAIN,injury or illness,19,0,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,4594327,Keegan Murray,TRUE,high_minute_nonstar,6,TRUE,22,61,82,61,82,12,LEFT ANKLE SPRAIN,injury or illness,22,-21,TRUE,82,TRUE,FALSE,56-82,unreachable
+2026,4683634,Bennedict Mathurin,TRUE,high_minute_nonstar,1,TRUE,11,3,13,3,13,0,NA,no row (reason unknown),2,17,TRUE,81,FALSE,FALSE,games 1-20,reachable
+2026,4683634,Bennedict Mathurin,TRUE,high_minute_nonstar,3,TRUE,11,36,46,36,46,0,NA,no row (reason unknown),24,6,TRUE,81,FALSE,FALSE,21-40,reachable
+2026,4871145,Josh Giddey,TRUE,high_minute_nonstar,3,TRUE,11,33,43,33,43,0,NA,no row (reason unknown),30,15,TRUE,82,FALSE,FALSE,21-40,reachable
+2026,4914336,Shaedon Sharpe,TRUE,high_minute_nonstar,3,TRUE,28,53,80,53,80,21,SORE LEFT CALF,injury or illness,47,12,TRUE,82,FALSE,FALSE,41-55,reachable
+2026,5104157,Victor Wembanyama,TRUE,star,1,TRUE,12,13,24,13,24,0,NA,no row (reason unknown),12,18,TRUE,83,FALSE,FALSE,games 1-20,reachable
+2026,6430,Jimmy Butler III,TRUE,star,11,TRUE,38,45,82,45,82,0,NA,no row (reason unknown),37,10,FALSE,82,TRUE,FALSE,41-55,reachable
+2026,6450,Kawhi Leonard,TRUE,star,1,TRUE,10,7,16,7,16,0,NA,no row (reason unknown),6,17,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,6478,Nikola Vucevic,TRUE,high_minute_nonstar,7,TRUE,14,64,77,64,77,0,NA,no row (reason unknown),59,13,TRUE,82,FALSE,FALSE,56-82,reachable
+2026,6580,Bradley Beal,TRUE,high_minute_nonstar,5,TRUE,73,10,82,10,82,0,NA,no row (reason unknown),6,14,FALSE,82,TRUE,FALSE,games 1-20,reachable
+2026,6583,Anthony Davis,TRUE,star,1,TRUE,14,6,19,6,19,0,NA,no row (reason unknown),4,16,TRUE,82,FALSE,FALSE,games 1-20,reachable
+2026,6583,Anthony Davis,TRUE,star,9,TRUE,44,39,82,39,82,0,NA,no row (reason unknown),18,-3,FALSE,82,TRUE,FALSE,21-40,unreachable
+2026,6606,Damian Lillard,TRUE,star,0,TRUE,82,1,82,1,82,39,LEFT ACHILLES TENDON,injury or illness,0,17,TRUE,82,TRUE,FALSE,games 1-20,reachable

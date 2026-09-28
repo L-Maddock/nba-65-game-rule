@@ -1,0 +1,12 @@
+**Finishing at exactly 65 qualifying games among stars who reached the line**
+
+|          Sample          |  Period   |  n  | Finished at exactly 65 | Share | Mean final qualifying games | Fisher p |
+|--------------------------|-----------|-----|------------------------|-------|-----------------------------|----------|
+|    all star reachers     | Pre-rule  | 192 |           9            | 0.05  |            73.7             |   0.16   |
+|    all star reachers     | Post-rule | 75  |           7            | 0.09  |            72.7             |   0.16   |
+|     at-risk reachers     | Pre-rule  | 46  |           8            | 0.17  |            67.3             |   0.19   |
+|     at-risk reachers     | Post-rule | 18  |           6            | 0.33  |            67.8             |   0.19   |
+| healthy at-risk reachers | Pre-rule  | 42  |           8            | 0.19  |            67.1             |   0.27   |
+| healthy at-risk reachers | Post-rule | 14  |           5            | 0.36  |            67.9             |   0.27   |
+
+Note: At-risk: 0-8 games of slack at team game 62. Healthy: played at least two of games 60-62. Fisher exact test of pre vs post within sample.
